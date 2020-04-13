@@ -1,1 +1,1001 @@
 ,name,id,review_count,price,rating
+0,Sushi Yashin,SUHJfh7H2NiQx8c5OWoAyQ,188,$$,4.0
+1,Uotora,LjAt-SP7BwIpp56TZHVsWA,84,$$$$,4.5
+2,Akaru Sushi,EIcbGkl6bRtAi12zcjA7-A,187,$$,4.0
+3,Sushi Lin,AFt1Qcec4_JNr6PWpkRYyw,258,$$$,4.5
+4,Silver Rice,LTfR_0NiS7OIRCfkaAJg9w,263,$$,4.5
+5,Ki Sushi,e3JALGueMcc2eLXRK8HPNQ,159,$$,4.5
+6,Gen,0Lnp_fi3gI2bfJ8RcMDfjg,274,$$,4.0
+7,Rakuzen AYCE Sushi,9MIkAs75TQzdwljVkUoZEg,188,$$,3.5
+8,E sushi 2,4UqmQ-zLrbICQFoDhr5XnQ,124,$$,4.5
+9,Momo Sushi Shack,ZrzSDDj54aUlPqn4MQMKeQ,658,$$,4.0
+10,Buntopia,G4qZvheX74VwYvek7I8iQg,289,$$,4.5
+11,Silver Rice,1yvEVWnJfodsReGHc8DuVQ,83,$$,4.5
+12,Ki Sushi,tT6teP3ZfCAfvdPdDoqG4A,687,$$,4.0
+13,Inaka Asian Cuisine,ldNAjLZ9sAM0PbPcJtz5Jg,233,$$,4.0
+14,Sushi Katsuei,B-lJd1eBLcLk1StNbgAe9w,435,$$$,4.0
+15,Pine Tree Organics,U3ysEBmvdZXKmTdc3MxhGA,62,$$,4.0
+16,U-gu,KrJ6m_TkxBAPPSNH-G7rvQ,128,$$,4.5
+17,Wasan Brooklyn,HC18oDJ2svQoXIddP-wuyw,201,$$,4.0
+18,SUGARFISH by sushi nozawa,dskDbpvA0hI_7RjtoL6IKA,142,$$,4.0
+19,Musashi Asian Cuisine,0nYfyel0UwlI1qXHOjTw0w,152,$$,4.5
+20,Inaka Japanese Fusion,s8W7-_v13OFJ-671FpL23w,193,$$,4.0
+21,Ten Japanese Cuisine,27ASh8-hTL5jp5d_WQGHxw,241,$$,4.0
+22,Koto Sushi,lQgMrqcMZghWd45VIhkUAA,158,$$,4.0
+23,Geido,cL8TLMCbs2B-vgy3SFtPGg,325,$$,4.0
+24,Iron Chef House,91tQ4ToReVVCA5MTJi9gfw,399,$$,4.0
+25,Bozu,lxQ-tzFmL1tmUqZUN-CSRQ,827,$$,4.0
+26,Sushi Spot,uTVfLJO4kYuzJsfxHm-BGg,34,$$,3.5
+27,Arashi Sushi,pb_ZeBeT3eYtr_Ctxjzy8g,42,$$,3.5
+28,Nagoya Sushi,tku05qRnWxN1P54mJZ-t1g,229,$$,3.5
+29,Ako,T2fE7hGS83Ba-QNCOqbK4A,375,$$,4.0
+30,Komorebi Full House,1yqrirjDVm40roP-NcU-Ig,32,$$,4.5
+31,KanaHashi,_FICyzFLQxR7N62I6qU94A,100,$$,4.5
+32,Okonomi,7OMGEtFWT6sdd9TVuoGqJQ,455,$$,4.5
+33,Daigo Handroll Bar,KxOAVoyJ55G-gEQqhnBpAQ,67,$$,4.5
+34,Sapporo Ichiban,M2bvOwAbCjLUvMbAF6h3-w,241,$$,4.0
+35,1 OR 8,MM5P9cKlzovYLcf5qf2SwQ,402,$$$,4.0
+36,Kyoto,AFisWoWm0pfxEi1dMYitKw,222,$$,4.0
+37,Sushi Tatsu III,czZG3xck5tqbBZEURVMkjw,143,$$,3.0
+38,SUGARFISH by sushi nozawa,0ePn6TQSJQky4ueKeGQvpQ,823,$$$,4.0
+39,Asia Harbor,QGldR7s9_qV_35iGtkcNyA,91,$$,4.0
+40,Ajihei Bushwick,e-G1yC5u8LOcQ-fx0Lxthw,79,$$,4.5
+41,Shin Ju Sushi,_lS5EcBhVur3zQ5wxryGYw,150,$,3.5
+42,Asea Fusion Modern Asian Bistro,Q_rT0lwuW8rJ6kGBYxPWkw,258,$$,4.0
+43,Sake Sushi,CKBku3Flj5Nh8VA6ZH-q2w,176,$$,3.5
+44,Sakura,G1HUAEpZcNHXO1V1gLoASQ,103,$$,4.0
+45,Chikurin,Rl-d6ox5msWljzRh9grsnQ,215,$$,3.5
+46,Hibino,d8qCvlsG3jwxQPZc_OGogQ,399,$$,4.0
+47,Sushi Factory,2h12doe_dr-_pj52ZrJ5hg,94,$$,3.5
+48,Mura,ciJkcDZ5kCh5D0wWyvvipw,170,$$,4.0
+49,Yoshi Japanese cuisine,bnCZgNyG9FRXRy7g2-rcMw,89,$$,4.0
+50,Taiki,Ww3aAPf0sA5ygAXu2qV1ZQ,66,$$$,4.5
+51,Miki Sushi AYCE,1SStXO-aNoIPuLUTYbymhA,21,$$,4.0
+52,Mitoushi Japanese Restaurant,AanNkr0fdlLXtUzjqwbcvw,157,$$,3.5
+53,Mori,qf9ONR0LAAFZ8fLDRkVHww,116,$$,4.5
+54,Noribar,LquYhpTyVPtZf6GP5ADojg,20,$,3.0
+55,Sake kawa,W_ebg9LGWmhuzffKnguwoQ,72,$$,5.0
+56,Sushi Yu,sLz0y7uD8_T8Ye32r7uyog,127,$$,3.5
+57,Ozu,SoBdWOxymmY5yKANn63UWw,255,$$,4.0
+58,Jpan,kAM_S06FQlhtSSyrzrJb6w,293,$$,4.0
+59,Sake Sushi,kYURnv37Z5P_sir_QJGHzg,735,$$,3.5
+60,Yamashiro,6J6u3doRNRrewj4_N_QgPA,131,$$,3.5
+61,Sushi Meshuga,oYAK5hfH0_Y0jyiaasgrjw,62,$,4.0
+62,O'Sake Japanese Restaurant,rn5GuQjcmapiRU1uvDuifg,66,$$,4.0
+63,Akino,22CRLIEfJWIO-8RjEiecAg,718,$$,4.5
+64,Pado,BOz0qTUMtAfljd3Vn1rerQ,294,$$,4.5
+65,Sushi Gallery,3OKf1QQnDhjkBKVg0eMllQ,137,$$,4.5
+66,Sushi & Noodles,Neiw4AB_s7BpLSxyUrSXBQ,141,$$,4.0
+67,Hayashi,U2tjlMRITBSHHHTiv7L11A,169,$$,4.0
+68,Samurai Fusion Sushi,Nb1f08r6EJSVTMY9MxY39Q,140,$$,4.0
+69,East Sushi Bistro,rYuAHi4RJZGGHlyqROJlbA,142,$$,4.0
+70,Kiku Sushi,wPymJMA9Esa2i6HVdo-VNg,143,$$,3.5
+71,Sakura Tokyo,Xk2zYFCknLOIZRv8T9z-Dw,220,$,3.0
+72,WAZA Sushi & Ramen,-yOUj1AxF6DJvHdTNYrg6w,168,$$,3.5
+73,Kiku Asian Bistro,AT8y2hH3zcALOhJPzb_hiw,252,$$,4.0
+74,Shobu Sushi & Grill,xSQp3Bj7b52PntW4ygsHaQ,198,$$,4.0
+75,Sushi K Bar,b-xpzu5nlhxw7qe745K9hw,32,$$,3.5
+76,Kumo Sushi,jHn3mUjbe9caYZNe1z9YUw,145,$$,3.0
+77,Chikurin,YX4AGUuhhF62M9TNpJwSpQ,313,$$,3.5
+78,I Sushi,4DbOjxU9pP1H7t5fLIUIoQ,45,$$,3.5
+79,Suteishi,VaL9GaBR_GR-q9d1VzJF3g,490,$$$,4.0
+80,Mitoushi,cegB-TuA92uxIG00HUkxMQ,284,$$,3.5
+81,MOMO Hibachi Steak House & Bar,XuberRcn8B3DhPXTLzab8Q,217,$$,4.0
+82,Karasu,eyjeP9CJZ_gYgeJFP_vtpQ,100,$$$,4.0
+83,Ise Restaurant,pNe8ZCkGTe4cXfKdOF7kYQ,456,$$,4.5
+84,Shimbashi,SYCt2MYSFKlCJx98VFfA0g,223,$$,3.0
+85,Amami Bar and Restaurant,NCnOkzbyfzDltnBnJySfzw,142,$$,4.0
+86,Tenzan,dAK5-ftIdu4IK7MRUFizuA,297,$$,3.5
+87,Masaki Teriyaki & Sushi Cafe,EG7KhvgAMOUAZm3fHQ4Hig,66,$$,3.5
+88,KazuNori  | The Original Hand Roll Bar,TBp9gdS6xEbSQqffVZ7iag,934,$$,4.5
+89,Kyoto Sushi,uMZ7xLqeJy1yIweKWe9eNg,163,$$,4.0
+90,Edo Asian Fusion,5h-57YHVpnnl8fV_jMkQvg,94,$$,4.0
+91,Longevousjoy,2txI-FAVf7q0SHNPcnjm7Q,289,$$,3.5
+92,Aburi Sushi Bar,uiPuKLlg8nGZ22qYO-EnMw,132,$,3.5
+93,Sushi D,Q47OUqvJ7PXwBBWB-pC2ZQ,127,$$,3.5
+94,Kaoru,diz6_4TVSP6EdWEZCZ0Acg,339,$$,4.5
+95,Flaming Grill & Modern Buffet,e96uZ0XXMwO8l7vfxH9jDQ,124,$$,4.0
+96,Natto Hibachi & Sushi,Z_q5fWOffYloQr4RzWPSqQ,38,$$,3.5
+97,Murasaki,QaEqD7q2GtmlovBOPC6yIQ,202,$$,4.5
+98,Samurai Mama,ZaJS8EKQNSaQpwpmgN-vVw,592,$$,4.0
+99,Mirakuya Japanese Cuisine,qNmHq3ST2bBinAN-TatwSg,44,$,3.5
+100,BondST,m6sYBuozGY1JhnHlBf1Bzg,985,$$$,4.0
+101,Fujiyama Japanese Restaurant,frqlGMVgi2oyJCK7SNq1iQ,73,$,3.5
+102,Sushi Tatsu II,VGOSQXDBT1pHhqAB7_B8mA,173,$$,2.5
+103,Minami Lounge,TZG0qTIGdeOtCkBrSU6v0Q,47,$$,4.5
+104,That Sushi Spot,6mThTbIo12P8BA-GHc_Yzg,15,$$,3.0
+105,Frenasia,G_C-murI79nWDtR10h14XA,224,$$,3.5
+106,ROLLN,R2WUk-6zIaJCFQXhAvlm9g,97,$,4.5
+107,Kiku Sushi,pZOmV1O0panjcYKXoXgNYA,72,$$,3.5
+108,Masago Bistro,mD8xyvhObwgTh-i_hNd60g,121,$,3.0
+109,Day 5 Sushi,Eb59Dr8SUjvoZAo_-RdkVA,24,$$,4.5
+110,Pokeworks,Y_FCEXN-Jk6fArRoDf-9pg,65,$$,4.5
+111,Jin Sushi & Thai,3LQD4aB3UYPteZfsyglV4w,90,$$,4.0
+112,Sushi Hana,Idx1__FUB7CqnhS4aQWGFQ,97,$$,4.0
+113,Kissaki Omakase,7qvsMuRypQYg1Ux8kghybg,58,$$$$,4.5
+114,Mitoushi Sushi,61HfCnnk6-SlvAuutOFntQ,177,$$,3.5
+115,Tenda Asian Fusion,XZswR1A0FMc3LZ-TmB8OYg,185,$$,3.5
+116,Uchu,OINi1A9bSUUN5vi7xgi3ZQ,77,$$$$,4.5
+117,Sapps,FXimZKjpMjbDR20M2ruhvg,157,$$,4.0
+118,Odo,56PeolgNURAG4x6q7nanmw,23,$$$$,4.0
+119,Sakura Japanese Restaurant,W0T1M0jh4On28hpXM-aFyA,25,$$,4.0
+120,Hama Japanese Cuisine,_IkMfWpOkQXRZtJAYJUJIw,369,$$,4.0
+121,Tomoe Sushi,hh0ae47ojPqq3USCRLmAjg,948,$$$,4.0
+122,Shinsen,1_JEFOI19hAu3VoODcTUvw,223,$$,4.0
+123,Raku,qEe7nIhPfEL6L0-VYhWRrA,382,$$,4.5
+124,Sakura,fy6GKGvQSRk-c_qLTvmJMw,48,$$,3.5
+125,Maru 2,WlRZ4JEAVqtemQ5WQhFAFg,125,$,4.5
+126,Daizen,LKwMXPoL_2UYqNAthX88aA,219,$$,3.5
+127,Sushumai Asian Fusion,XfHgiIsoo1Pr_v04bx9ptg,188,$$,4.5
+128,Sushi King,rwaJOocM9h1iGJeNuy_LvA,12,$,3.0
+129,Tairyo Japanese Fusion,yFnvBuOaMVy6_HqCnUl1Tg,59,$$,4.5
+130,Ginza Japanese Restaurant,33-QPyIiKzQmToFZ2sL6tQ,123,$$,3.5
+131,Sushi Tokyo,7NTPRkc7JN3HWT8AvWkINw,122,$$,3.0
+132,Takeshi Sushi,EVZeqLPpfXrygmgamjD5_w,94,$$$$,4.5
+133,Toyama Cuisine,ELCnBV5Ie3VnY2q3842Rbg,125,$$,2.5
+134,DIY Poke Sushi,CiHxENx6zUgYe16sZ6hDCQ,24,$$,4.0
+135,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,2292,$$,4.0
+136,Norikoh,xFp3xSQ43J-i7nmJfNBsZA,550,$$,4.0
+137,Sugarcane Raw Bar Grill,toxwdOCz37bX5dJ_O1h2Ew,582,$$$,4.0
+138,Sushi Island,etIbdlTKz2yLkvr9MWNPvw,341,$$,3.5
+139,Sushi Noz,ocnHpILS80DHL--34L8xpw,95,$$$$,4.5
+140,U-Me Sushi,442I5u02L3adihIF-p8v2Q,102,$$,3.5
+141,Koi Restaurant,0vSAR3Ym2fuehBvHSZyqIQ,760,$$$,3.5
+142,Juku,zuD-iB7hV_dnf_JzBk_DCQ,118,$$$,4.0
+143,Samurai Papa,7xpbioe88rnW7JjzLEQeRg,269,$$,4.5
+144,Matsuri,4eAgPj7eKonKAtk64kgUfQ,117,$$,4.5
+145,Omiya Sushi,u2E3z4yUyy4Q9m8NoLcdfA,150,$$,3.5
+146,Wasabi Sushi & Bento,W0_Rdy8PlbAvS9K9ggkBfA,128,$$,4.0
+147,Honshu,PpRcR8PPK3bdLCzAevOosw,288,$$,4.0
+148,Kura,nEkVibaTuIFEcTNtltFgJg,474,$$$$,4.5
+149,Suki Sushi,AVuDEai-NoQnsnPgcFmI7w,64,$$,3.5
+150,Sushi Nakazawa,zGAQqDu0Ak2khVYs9WdQxw,1388,$$$$,4.5
+151,Sushi Ginza Onodera,15R8rx9SHKNVYBwgAuTyGA,183,$$$$,4.5
+152,Samurai Papa BS,Dv28TvKBh_8i6W02uAaMKw,153,$$,4.0
+153,Ichi Sushi,iBSoi03lblC-YcT7-oGGdw,176,$$,3.5
+154,Fugu Sushi,VWlidaImhVzgyVQRbhXsew,144,$$,3.5
+155,Hana Asian Bistro,XD9XiCUvbvCt7laocvAadw,202,$$,4.0
+156,Bayridge Sushi,bvU8isunruqpq4LPbJ67nA,204,$$,3.5
+157,Haru Sushi,V96YbhzyAGsDByRrCWpBZA,390,$$,3.0
+158,Aji Sushi House,u3JBjUgrCdxy6WF0tnX3SA,436,$$,4.5
+159,Ichi Sushi,odYZoWQ_2qlIzDcdKehPjw,93,$$,3.5
+160,Ichigo Sushi Restaurant,j8_-krHoD9jGcQ2HKEdpQA,86,$$,4.0
+161,Umi Sushi,4CAJ-JvgbzBdoWq1CXtCFw,616,$$,4.5
+162,Miso Restaurant,Edkx9frqYknN9ykTEqTVXg,113,$$,3.0
+163,Momoya,NRJq2BNcbjqAyxUB_bw7gw,641,$$,4.0
+164,A Win Xin Kitchen,XW3hRkVoOqNu2xRBienBNw,22,$,3.0
+165,Naniwa Sushi,eHRHRMgh1WyDt79vlJIW0A,106,$$,3.5
+166,Masa,t7BIiUN0tFg33kySuuQ0aQ,332,$$$$,4.0
+167,Takesushi,u5V6wQQv3e4BmbyzUDYLNQ,358,$$,4.0
+168,Hiroto Japanese Restaurant,1AVWDNVlQGD4oo41jHyPUw,52,$,2.5
+169,SHI,8cyRl5HIQzbkYD7orq223g,798,$$,3.5
+170,Koto Sushi,Ju1Tu3Dl1qVmqEuD4Nyo7g,60,$$,3.5
+171,Fukuyama Sushi & Ramen,KfFXfxN6qzk_dTcQjsK-OQ,43,$$,3.5
+172,Mama Sushi,tFFLetrWW6-7KW74eryspQ,346,$$,3.5
+173,Beyond Sushi,FoR70YoGSb4_QavCe1WZEw,916,$$,4.5
+174,Mito,S1yH5vdJh2L2UIb7zJ2OHg,361,$$,4.0
+175,Sushi Time,gSkAfUFw_iM2CX2FqC6TwA,501,$$,4.5
+176,Jungo Sushi,I66F8wR77s4v4pX4OUHXEw,47,$,3.5
+177,Wasabi Sushi,PT6hP9fHaAlmxC6-MdRkag,140,$$,4.0
+178,China Tokyo,xwa4aG6hmSSA3FSF9KM87A,67,$$,3.5
+179,Salt + Charcoal,m1cJLpDN4B-_0hGgPfe5OA,467,$$,4.0
+180,Bondi Sushi,SBQ0iuFG15rscuArUYDlTg,154,$$,4.0
+181,Hibachi Master,Sxpy4HvdiqTQt5BcplUAHg,53,$$,3.5
+182,Raku it's Japanese,hUf1EpnxbxFU4gf2nL7H-Q,16,$$,5.0
+183,Kanoyama,VVlHJ6_sJbRAodV5lCzBnA,655,$$$,4.0
+184,Sushi Yasaka,HZWHBfeuP4Fb6y8b8uqnbA,1752,$$,4.0
+185,Suzuki Shokudo,mm8gYHxaLLRyv3CslY40TA,127,$$,4.5
+186,Koyo,LOFl1w5bXrAdDRAQ-vi3_A,25,$$$$,5.0
+187,Dream Eatery,GjRatF7Gc7mNY4GapUCpsw,100,$$,4.0
+188,Asuka Sushi,fePu8xy0ir_ikZcS_vVSBA,944,$$,4.0
+189,Sumo Teriyaki & Sushi Japanese Restaurant,LjzcvSy6vNQYDhSO5eO3-Q,91,$$,3.0
+190,Nagoya Fusion,0TNfNUGnW8jzBbCENxIJhQ,133,$$,3.0
+191,Sushi on Jones,jR09vZmJnwKPw4DyMxgwnw,439,$$$,4.0
+192,Yoi Sushi Japanese,NB5u0htOK_1_dTkYALpRxg,189,$$,4.5
+193,Sosaku Japanese Restaurant,yOW3kGkOUHvWhh2vRn8sfQ,37,$$,3.0
+194,Kumo Sushi II,pFUZEEN4B-yp0785xHyoqA,76,$$,3.5
+195,Umi Japanese Cuisine,g_bi9LM2NcJd2SA5dFYFxg,78,$$,3.0
+196,Nanatori Japanese Restaurant,A_pEWrmdOmOuppwSZOlCBA,205,$$,3.5
+197,Shuko,EBIjeMlkgU12CyCcUDj-kg,283,$$$$,4.0
+198,JJ's Fusion,k4QfaFoqtpEZ1LZylJZqww,446,$$,4.0
+199,Dai Hachi Sushi,nJh1ioLcN6XBQEstR6x9yw,147,$$,4.5
+200,Sakura 7,SdszVJsDzwV4c3ayuA6BWQ,126,$$,4.0
+201,Mitoushi 8,gz8Pq_xgajTRf_5___82Cg,34,$$,4.5
+202,Umami Sushi,U7gqQHSRFNYCad3qGLj3yQ,125,$$,4.5
+203,Mitoushi Sushi Asian Fusion,tEKxAitFfYl4uYexZtiNNw,64,$$,3.5
+204,Sushi Of Gari,bHGETjP_InKy0sIVHFgHyw,613,$$$$,4.0
+205,A Sushi,6Gra4M9dOXcjYzi611KwKg,115,$$,4.0
+206,Wasabi Restaurant,HsMExJ0PYZnFACK_T1iUBg,140,$$,3.5
+207,Blue Ribbon Sushi,QR1YIRzFjd2bi5iBzT9zXg,1098,$$,4.0
+208,Chuko,eS9mTLlWwu_Ap2ROMQWPxg,1065,$$,4.0
+209,Kawaii Sushi,1GnRQ4jyz9STASHI96YmYQ,78,$$,3.5
+210,OMOMO,pBgru04ofeAVa6P3HJBQ9A,29,$$$,4.5
+211,Zen Ramen & Sushi,mESab-FqL5QqSVsnX72asQ,1664,$$,4.5
+212,Yuba,HVwZqjXB39xb2wJeQBX8Gw,364,$$,4.0
+213,Kotobuki Manhattan,HFn1sPqKSzvxaMk2n2ZtJw,613,$$,4.0
+214,Sushi Avenue X Incorporated,1Ft_bmmz2cZaelleYZ0t6A,14,$,3.5
+215,Hatsuhana Sushi Restaurant,6lUsFj0KCao678o9L7QwUw,1337,$$$,4.0
+216,Osaka,LNwaPEFd9gHu69lFtgYQOw,125,$$,3.5
+217,The Lobster Club,-Exv1AEsaKU6Cdb2TO_ZUg,96,$$$$,4.0
+218,Zutto Japanese American Pub,abNHO9-xlCsv31gghCUuxw,881,$$,4.0
+219,nonono,qm1J_dPA5IHij1oAnoZwHw,720,$$,4.0
+220,Kikoo Sushi,k_rLFIMOAbvchgWKEuKdtw,89,$$,4.0
+221,Sushi on Jones,IS94JDTcq_WedBcj6P4qpQ,145,$$$,4.0
+222,Sushi Yasuda,7EaiwMVaNdQibSs0yYkE5Q,2120,$$$,4.0
+223,Shi Shang,Nu5Pl-wyDMRmT6tL3pcI5w,24,$$,3.5
+224,Kido Sushi,tEarOYdR8AZOLz6ofb1PfQ,91,$$,3.0
+225,Sushi Thai Cuisine,-6wpiKE7vCkFVb7GLCVcIw,125,$$,2.0
+226,Kami Asian Restaurant,ByTPZl9dL1wgiXEwChnowg,71,$$,3.5
+227,SSAM,cOXYWZ_GTX-_ue_kveguRg,400,$$,4.0
+228,Japan Village,yono7ZJcU1KiqfC-xUMaIA,223,$$,3.0
+229,Hillstone Restaurant,01isnBO1rFO2LTOeNfYl9w,941,$$$,4.0
+230,Hibino,C5tqSSgVPfgtsJn3QnvDiQ,191,$$,4.0
+231,Maya Bed Stuy,98URsYAwTfXRPP5e1ONPug,91,$$,4.5
+232,noda,IPhWpqIuAiEerKlLS82RpQ,45,$$$$,4.5
+233,Natsumi,oyyubJoK0VZ2V3a5sVJULg,850,$$$,4.0
+234,Pokébāb,8y8_xwiaBtCVYA4Jjx-5AQ,164,$$,4.5
+235,Ika Sushi,7YhT9pqVmMpsWiWGFmQZrw,51,$$,3.0
+236,Sushi Daizen,JPEIN-ZFo0-6X06nz6cfYA,109,$$$$,4.5
+237,Sushi You,Clumryf360iOnwpZ2ML8aw,269,$$,4.0
+238,Sachiko,1V7TLHWs8FO7iHrRUBgNBA,39,$$,3.0
+239,Shoga Sushi & Oyster Bar,NLZsTQQQ-jttCAQkKBmqoQ,235,$$,4.0
+240,Jewel Bako,juoHZs-uMmqW4gQ1iISvxA,542,$$$$,3.5
+241,Ikura Sushi,NjNTbqiiSmGknApAoo09Mg,63,$$,3.0
+242,New Mizu Sushi,jt-0y4RJ20ONbkxxNWG_Sw,155,$$,4.5
+243,Usagi NY,vijwGDNrPBJHEG7_DsjZNw,62,$$,4.5
+244,Haru Sushi,Fv6ueSQwc_ITpXEhybHvtA,760,$$,3.5
+245,Takumen,enDIsmxSG2bQccQWgGNcbg,186,$$,4.0
+246,Yeung II Sushi Asian Cuisine,bfg1MmcnH6DO1dgF_tLxkA,194,$$,3.5
+247,Sushi Meshuna,zTG--X04n1Jr1IIuVEW_NA,4,$,4.0
+248,Gu Japanese Fusion Sushi & Bar,kCpKwCW49k3ImuI5cK6LSw,160,$$,4.0
+249,Sushi Zo,GknCLz8E_mC211psEX8lYg,93,$$$$,4.5
+250,Kaede Japanese Restaurant,HsqaGB90PYkI0En3rrtupQ,185,$$,3.5
+251,Ootoya Chelsea,OLSSJIp8pu5UlugTF7tuHA,1401,$$,4.0
+252,SHOJI at 69 Leonard St,_QxcsvPsYnOgPhiK6gzCfg,53,$$$$,4.0
+253,Sai,3n6i8TwGEIL9KnCCHUyiqA,142,$$,4.5
+254,Wasabi Japanese Cuisine,FskWi1kY1NeobSgx7-wGyg,144,$$,2.5
+255,Asian Fusion Grills & Sushi,nAFhhGRLt5Ty9MJY50RsaQ,179,$$,4.0
+256,Mido Japanese,et9pAFtSvNOct9Qcmtcf7g,208,$$,4.0
+257,Shogun Hibachi,kA0z_4_TG_kYfCPXDzbmBw,139,$$,4.0
+258,Yama,0lZeHrKy9DLfBxek_oR3Kg,425,$$,3.5
+259,Wasabi Thai,xt8AcJzq61ksZbMJ1o--7Q,92,$,4.5
+260,Amber,FXFQJmhK6elesopXdhjvFQ,108,$$,4.0
+261,Sushi by Bou Flatiron,M9NNvpKlOWLxJbSPDTe0Lg,266,$$$,4.5
+262,Shinjuku Japanese Restaurant,VGo4GostjNr0-SOTpKuBqQ,95,$$,3.0
+263,Sashimi Ramen Express,AtUxlW7ltZb73ZXMwpkY_g,310,$,4.5
+264,Cagen,IYlO-XRwjZlUl0yoKY87cA,189,$$$$,4.0
+265,Ninja Japan Teriyaki and Sushi,AomqiQxf3_XQM6qXa4rpUQ,21,$,4.0
+266,Raku,FlZ1zdVEKWv7dwqm8Uw8-w,1065,$$,4.5
+267,Aji Sushi,uTCYtdx4b6vFwsVC3Bb9zg,42,$$,3.0
+268,Geisha Sushi,3BYgbjo8MtaIyLZMdTxrOQ,377,$$,4.0
+269,Authentic Szechuan,hUdRX0a_2ZZEmB8KCp-WYw,86,$$,3.5
+270,Sakura,8qJd4UbgUa6i7SdB9DmT3g,78,$$,3.5
+271,Sushi Dojo NYC,je92kXXWjANmiN-dfwNapg,448,$$$$,4.0
+272,PokéBowl Station,m5tGGjyfjoQ_EOalKoJUAQ,90,$$,4.0
+273,Katsu-Hama,-J8VuX3wGrYSOBu2G0hMsw,1318,$$,4.0
+274,MakiMaki,Zjdtcex73QIz2_MvEvDrFQ,154,$$,4.0
+275,TJ Asian Bistro,ckDKWs7pyXpRYi06sVedrA,424,$$,4.0
+276,Sushi Wen,8HhDFK48icqSni1E2-Cg5g,32,$$,4.5
+277,Kobeyaki,wQU3LMmOPNzxL-ptOi_F5w,541,$$,4.0
+278,House of Small Wonder,GpCZORguVJZGpd5GoL9Arg,721,$$,4.0
+279,Mizu Sushi,wv3-eFVYUaZo3XybsSnDIg,167,$$,3.5
+280,Beyond Sushi,uam87TEibi2u6fjt_0JWuQ,33,$$,4.5
+281,Pink Nori,lIix5qMI4q5bfCTO4wxkgA,391,$$,4.0
+282,Sushi Seki,MWx4HB9p7pCzse9CInLuDw,498,$$$,4.0
+283,Tomo Japanese Fusion,FsHqkVb0kmLq1VW7P-xz1A,162,$$,3.0
+284,Bai Sushi,6gcGQJ20q0J-ODZ6srB3Ow,225,$$,4.0
+285,Mizu Sushi,79-I5OTfhsfPCZGgcB4J5A,251,$$,3.5
+286,Sen Sakana,8tcFpd0dcmfzbLgbTO4tdw,284,$$$,4.0
+287,Otaiko Hibachi & Sushi Lounge,pe0kLJDb7DEWSKCbOS8D2g,184,$$,4.0
+288,Hakata Tonton,KfaG5PoTEPpbODHBta9irw,1014,$$,4.0
+289,Blue Ribbon Sushi Bar & Grill - New York,CqQ2Og9kf-LhlUWtODalCQ,755,$$$,4.0
+290,52nd Sushi,JiFp_mv7OgRonaWb-1n96A,119,$$,4.0
+291,Shigure,QmelPAXgkVLZfUb27diAEw,115,$$,4.0
+292,ChopStix Sheepshead Bay,DyC5HxYK8E09N2Hb-6WyGQ,279,$$,3.5
+293,Shalom Japan,zJcxZQbTSAP3q4Fy-6WAyw,275,$$$,4.0
+294,Edo Sushi Japanese Restaurant,nNAzEGkZnecQF0yZdYfMIg,290,$$,3.5
+295,Sushi Ishikawa,oB2cpcZNyjDklNqZN0n8hg,213,$$$$,4.5
+296,Northern Sushi & Sashimi,x1vyHnuyuRoJRRLzRb7Nog,70,$$,4.5
+297,Yamada Sushi,94srme7xJgrMEpViOOPgbQ,180,$$,4.0
+298,Beyond Sushi,TsXW4R8y8y715TMKmlUDAQ,217,$$,4.5
+299,Peking Express Chinese Rest,RgIFYmjtBp5k90AK1jP7Zw,38,$$,3.5
+300,Hagane,VKumFZfT7f_FVFWjbPBAhA,141,$$,3.5
+301,Hado Sushi & Thai Cuisine,BlBBmx4sLmoRW0tORiMDHQ,356,$$,3.5
+302,Mayanoki,lPz4dEFSE1YzASjXYPVYnA,51,$$$$,4.5
+303,RYUJIN,0gPXct_l_82phIEoKdtWZw,267,$$,4.0
+304,Maguro,SqUIFSqY1PWKWY_hfgJ0MQ,394,$$,3.5
+305,Atami Japanese Fusion,iueVEi_vQxdAzdXs-8Fvrg,140,$$,4.0
+306,Ootoya Greenwich Village,ULDVJYTT-47RqbLtlR_FUA,318,$$,4.0
+307,Oita Sushi,a7rM-AOM7_xi8AlWX-Thkg,249,$$,4.5
+308,Kondo,0v2rI4CivY0nrQM3_W4VmA,165,$$,4.0
+309,Hirohisa,6t5xWjPLWAjJV3YFMX_oaw,155,$$$$,4.5
+310,Kasumi Sushi & BBQ,V0iszuSRO9V-uZ8QIzuLBA,64,$$,3.5
+311,Blue Fin,LevaZe9HJHteg4nSp-pt2g,1017,$$$,3.5
+312,Dock Asian Eatery,qd9_gxrmskbOT6OLN9sShA,129,$$,4.0
+313,Orange Grill,OkLCVAUzB-SNmDAfNdSNRA,156,$$$,4.0
+314,Sushi Tsushima,IU7J-biFGBwrl6qKBPGStQ,241,$$,3.5
+315,Dai Hachi Sushi,6qK0MyhsXYLgMSPWZdleGA,190,$$,4.0
+316,Ninja 86 Sushi,vWQLcEnV7qwHPJvKOcxR5w,79,$$,4.0
+317,Shokunin BBQ,AAPJkyU0Y7Aci0RZBdJONg,214,$$$,3.5
+318,Yama 49,_pJXD4g4Fr0uWZvSKuG_cQ,263,$$,4.0
+319,Yuri Sushi House,loXvaVYhzOO3xTYzntlVBg,81,$$,4.0
+320,Wegmans,rHKelonlaQI_ISrtZjd-fA,113,$$,4.0
+321,Nare Sushi,aK2ipD9K8-usBw_gkvvJuw,340,$$,4.0
+322,Slow Loris,LHcpOjPtc8QQCrFiRFjWyA,86,$$,4.0
+323,Rakuzen Elmhurst,a5-ChYM1t2Fl019KLPVBNw,126,$$,3.5
+324,SenYa,pTMnHb_W3sKqS8oCzjHdVA,246,$$$,4.0
+325,Sushi Ren,CV--FymQcb51hxcnkpCTng,135,$$,3.5
+326,Okuda,qNyUkJJjg1Tu6XmhAUU1sA,35,$$$$,5.0
+327,DOMODOMO - New York,BPZfuPvSxCfoppU4lPFm0Q,1095,$$$,4.5
+328,Haru Sushi,KS-DmyDoStti9ZjAWPO53A,84,$$$,3.5
+329,Iki Modern Japanese Cuisine,5agbggvhHI_juAZRfCqtZw,246,$$$,4.0
+330,Bohemian Restaurant,8fr5FYU1ip0phERt1mrekg,759,$$$,4.5
+331,Sushi Yasu,FTMN9gexnMk6LdvEj8ZaRQ,481,$$,4.0
+332,Inase Restaurant,IPHolyNKu-W1DPJKxWvKQw,142,$$$,4.0
+333,Roy's Fish Market,TXEl8kyZ4de8CoW7nT_i3A,150,$$,4.5
+334,Suzu Sushi,aXbajGzcN6vx2n6KNMtOsQ,194,$$,3.5
+335,Japonica,mZOsij0jxAUF3HM8rRMlFQ,133,$$,3.5
+336,Yamato Restaurant,EXEDl7BOLZksz3Uy_RVFhw,268,$$,4.0
+337,251 Ginza Sushi,PuiSQqVdC38FhwXtWOPJzw,226,$$,4.0
+338,Katsuno,CYfO97BoPiqz3KRbJ8jbeg,179,$$$,4.0
+339,Kasai,emm90bgqh6-QZ8m3IZ_H9g,57,$$$,3.5
+340,Wakamatsu,vHtV8WkFec0mlWfDmm9R2Q,98,$$,3.5
+341,CHOCHIN,HO8vjBAFY3GU1erXMZ_UbQ,91,$$,4.5
+342,3 Guys Sushi,b3XJAx3ru9FxB5gIxPZogg,69,$$,4.0
+343,Okawa,eyrc1L7VnWK0TcF9cheR4w,153,$$,3.5
+344,Osakana,EG8MnctXEOXkm7b_yge7Pw,47,$$,4.0
+345,Charlie's Place,us2cegdaGlJRLbSLZsu54w,124,$,4.0
+346,Haru Sushi,3csCSCHoQACwCp4e4E4phw,233,$$,3.5
+347,MakiMaki Sushi,fv6gZQw8jUYUzGx_fYdI-g,26,$$,4.5
+348,Fresh Ginger,rBZeiAqUn2m6mnVX7n7e0A,15,$$,4.5
+349,Sachi Asian Bistro,VpInBiE272MaN1Hi0DA-Zw,208,$$,4.0
+350,Sachi Asian Bistro,VpInBiE272MaN1Hi0DA-Zw,208,$$,4.0
+351,Sushi Kaito,vX0_qcuVXoeeH1_24I8lSA,167,$$$$,4.5
+352,Sakura Japanese Cuisine,01hs_l54-211UuiJPI83lA,195,$$,4.0
+353,Yuzu,ymb0SvFrlcWm6k_Gx5SYcQ,191,$$,4.0
+354,Ootoya Times Square,wjIyCBEpCG_HRp8veiI0YQ,935,$$,4.0
+355,Sashimi Express II,snJZrvebNxanqMmWPhqndg,84,$,4.5
+356,Zuma,qU3ejLMndurKQTkM01gutg,644,$$$$,3.5
+357,Amber Upper East,LZ8qWYoScZ_DlOg4QYfo4w,222,$$,3.5
+358,Sushi Lounge,jAeNN05URRe9_CmGc0ssEA,352,$$,3.5
+359,Kuma NYC,IuMvrvXTTZm4NQYO1O1dbg,46,$$,3.5
+360,Okinii,K54qUgd274Fj_LvHCjeSFw,306,$$,4.0
+361,Union Sushi,w7p3TTQaTG3jFFYWHrNnUg,123,$$,4.5
+362,Juban,aTzxrI2o3vH_HQkqeFszzg,175,$$,4.0
+363,Watawa Sushi,UB5emSFilql0J10Jx4AHXA,883,$$,4.0
+364,Hinoki Restaurant & Bar,lUb0soiyYDUph_u13SpKTA,114,$$,4.0
+365,Raku - It's Japanese II,_2V0as8DZDwVxAi3ZJ0JkA,314,$$,4.0
+366,Mazza & More,m7kf0mV_fZ8FZN8kwhbfdA,13,$$,4.5
+367,Ageha Sushi,CdHOwIO6OFNXZxPYEUts2g,667,$$,4.0
+368,HK Tea and Sushi,4s_PhObBStJL6EYVtIAsrQ,465,$,3.0
+369,Sumi Sushi,49k7dpa5cNgKM0TBb593IA,113,$$,4.0
+370,Ajisai Japanese Fusion,Qi1AoRNcFEX8etII_RZkFg,154,$$,3.5
+371,Sushi & Co,O73yeXgNF7ReLuY6EsOa1w,32,$$,4.5
+372,Otaku Katsu,1TZ9CzGDGdAGCADjoYaliA,51,$$,4.5
+373,SakaMai,wcwftlB-61XG4ymGTR61aw,669,$$$,4.0
+374,Hillstone Restaurant,mHBhUxHgDGjsB1LJl4qW0w,1093,$$$,4.0
+375,Sea,QVWmn5jmy_TPmg0G71Dk5g,3063,$$,3.5
+376,Fukurou,Uu1wc7CrweSIB4B7FLdbwg,315,$$,4.0
+377,Momokawa,kwq1W0opBnOYKoUXWYyQ5g,150,$$$,4.0
+378,Amano Sushi,xsJ7dlFUX6ovtYC2hqEqig,55,$$,4.0
+379,Isohama,5UqEDoMZCrvhSKgCWg5GGw,162,$$,4.0
+380,Mitsuwa Marketplace,JUPxlDVMxuRSsqMcH6RCVg,1614,$$,4.5
+381,Hana Sushi,3adJXvbiqtOF6mmzeGXwWw,211,$$,3.5
+382,Osaka Japanese Restaurant,_Dt5ud0hdcIfDLmCg39BBw,56,$$,3.5
+383,Gohan-ya,FdCQmAHzhbHuaP5lcsYs6w,47,$$$,4.0
+384,Sushi Suki,Xfx5MCkghFKEWZ8umGMpIA,152,$$,3.5
+385,Blue Ribbon Sushi Izakaya,TeBthQZ2xpxyvXheS08ovw,514,$$$,4.0
+386,Sasa Song,tvpkgdOyFFRGwwu8zyR36g,111,$$,4.0
+387,Robongi,p7HH7fLzx_H1y2hkttYxtg,455,$$,3.5
+388,Catch NYC,7VqMGK9uwi0vKqOjdKyIUA,2299,$$$,3.5
+389,Hudson Sushi,5zO24ZKYVnca0jbY2gpIzw,104,$$,4.0
+390,Robongi Weehawken,5mhg1c3GdDtOPLDkWaSD4w,107,$$,3.5
+391,Sushi West,RLYcIzhg103l6PwhdIh73w,114,$$,3.5
+392,Yellowtail Japanese Bistro,BYmQjQiBpfII13dksYeTKw,135,$$,4.0
+393,River Japanese Cuisine,8_36jHn9tVJ4V7aBMhhLJw,295,$$,3.0
+394,Simple Asia,sXxpqjRajbspzLRdv_6QBw,120,$$,4.5
+395,Snowfox Cafe,jhyg04zQZqW_HWLq5qjsMQ,134,$$,3.5
+396,Toyo Japanese Cuisine,7gXgfECmBH2AKSgF-c_USA,94,$$,3.5
+397,Kobeyaki,8nmMip_O4vcPDcujTEa_TA,210,$$,4.0
+398,Menya Jiro- Brooklyn,VxVcva5YiUrwq2j4eJCFAQ,129,$$,4.0
+399,Norikoh,ves5zPXMxQk1-HK3E1fNhA,31,$$,4.0
+400,Torishin,4Jp0wdJXLpmgCwWv6o6YEQ,291,$$$$,4.0
+401,More Express,EEf5KB5wx340TY7QwDKIqQ,316,$$,3.5
+402,An'Nam,ykf5siP-2CXY3leFbeeabQ,294,$$,4.0
+403,omakase room by maaser,_jX0YO1PykUrRKCLo0WxIw,97,$$$$,4.5
+404,Jin Ramen Sushi,7USePx0k_ENmwrw625X9kA,80,$$,3.5
+405,Shiro of Japan,lAe8o_RXnUSFYzBV8hZkYA,237,$$,3.5
+406,Sakagura East Village,2ZVnk4slnk8QpFwVLfYfYw,39,$$$,4.0
+407,Ni Japanese Delicacies,4qtJ_u-7-73ts5UPa6NBmA,45,$,4.5
+408,Bessou,icZcEK39HXuL2q08i4EkkQ,258,$$,4.0
+409,Moloko,k8iVVuYic-fCgmzzfDkGNA,168,$$,4.5
+410,Awang Kitchen,dJdIEYv56jTBkU6hAnSypw,143,$$,4.0
+411,Bento Sushi,DWAlj-_rcV-tYalWYDbKIA,28,$$,3.0
+412,66S Fusion,HGLH-sa-Fp3X6UXcaG7U0g,88,$$,4.0
+413,Junko Sushi,FlAK0QXHIMqW6koDhs7DXA,257,$$,3.5
+414,Mira Sushi - Queens,2CMgTjJoC3II30mxRy-G8A,195,$$,3.5
+415,Han Sushi,4yOiQMheUbc0spj0_viKiA,111,$$,3.5
+416,Kawa Sushi,B8Fkcus0k4IdcIwdj2vXAw,81,$$,3.5
+417,Bamboo Ya,KdLP9XehfVmNonUg8O6taA,273,$$,3.5
+418,Kobe Sushi,Gg3heBdQQ9Wr03icYIaIQA,131,$$,3.5
+419,EN Japanese Brasserie,P_UREWCQxEYVbBa-KW_Wew,1246,$$$,4.0
+420,Kome Waza,k2p78r6NOhYYb_5QOORGcA,169,$$,4.0
+421,Estihana Brooklyn,8tnYOCt_G42ZKv69KxBWAA,32,$$,3.5
+422,Fushimi Williamsburg,6EArjn_iacj-yGVLTKWuEQ,630,$$,4.0
+423,Tender Steak & Sushi,bS5PXrKty7EExK8tie0GJQ,343,$$$,4.0
+424,Yakitori Totto,YC-wGlO0oOkEIaCEDZv-ag,1308,$$$,4.0
+425,Izakaya NoMad,8NVN6Nldm7AGoGaABBZMRw,671,$$,4.0
+426,Ogawa Japanese Restaurant,l6ZFhrONGp0b80bxnOFiwg,82,$$,3.5
+427,Beron Beron,1en3taVtoDPgtEDWHrFeog,106,$$,4.0
+428,Ceetay,Bh0Rxd4Yi21luny0S95GaQ,316,$$,4.0
+429,Nakata,2TOtrDhkQjaOJWwJJr0tUQ,132,$$,3.5
+430,MoCA Asian Bistro,_yWKwNjynMD93fe339j9Wg,525,$$,3.5
+431,Ubu,cevkTGf4vX_IBU_bGlz9ww,94,$$,3.5
+432,Nikko,V-rY0hlPjAghV14jOlVUiQ,359,$$,3.5
+433,The Market Place,zcA_ybjVNpZ_1G078QINtg,21,$$,3.5
+434,Chikarashi,vec8jeVbbSGzVlStl0Xp_Q,486,$$,4.0
+435,Drunken Fish Sushi & Lounge,3FK3d4A_w0k-KRBPzxPXZA,63,$$,3.0
+436,Benemon,axqp3pGJXnTLgq2QrPyDyQ,549,$$,4.5
+437,Sushi Tokyo,NUFdHBhmlzJAZv0IpYuOoA,25,$$,3.5
+438,Ko Sushi,YUupWsGbZx-bGea9fdmW4w,329,$$,3.5
+439,Taste of Tokyo,UqR0FxuZ5VPSYL5N4bbxMw,165,$$,3.0
+440,Marathon Sushi,Ld_ueNsJVWkm6-QlGS81zA,131,$$,4.0
+441,Poke Stop,EXyJa7Y6YEhTGCM5QjQ5ww,79,$$,4.0
+442,Takahachi Tribeca Restaurant,9AUVb5HNQl2117Nkl7sP-Q,229,$$$,3.5
+443,Sushi Bell,MLx55vayKx0MmK5PIQhmrw,171,$$,4.0
+444,Sushi Zo Hanare - Midtown,zdgJUdnxkRmmtb4qIk0ZHg,21,$$$$,4.5
+445,Illuzion,QKFzm9Z6NA6ec1j7M1nd8g,389,$$,3.5
+446,sushi AMANE,jplPyiAUcDhFasdqozSnEA,61,$$$$,4.0
+447,Izakaya Fuku,AudBWxeAr3zHr1ITrTcVpg,41,$$,4.5
+448,65 Kuho Sushi Shabu Shabu,q1oqr0FIXm0uF5_fT25LtQ,203,$$,3.5
+449,Deep Blue,OaZEhQDf4AVYDhyK3WuVjA,326,$$,3.0
+450,Shogun Japan,SFDrCbQFjCmJebPYr87iTQ,29,$$,4.0
+451,Sushi Mikasa,NLZby3CzzL5tS5oJdXMadA,81,$$$$,3.0
+452,Sushi Cruise,xbKIfHpNHyTpSxQnPgObTQ,445,$$,3.5
+453,Sushi Inoue,5eXrMPB5GUM-sapL8T-znQ,128,$$$$,4.0
+454,Sasabune Express,JfiQzDkzG3L3TLmRGUHMuA,68,$$$,4.0
+455,Sakura 4,SXi6lU3TF15BhXkTJ5cTFQ,138,$$,3.0
+456,Shuraku,sNeefaiRztDQ10B4QzUi3g,84,$$$,4.5
+457,Tendo Sushi,NEQUX6MJSG8yeFqDCApbAQ,91,$$,3.5
+458,Soho Sushi,1e4J-25T_aXQ2QFiHL_yZg,292,$$,3.5
+459,Ushiwakamaru,kQa2W0D84lwO31QgUPoOLA,171,$$$$,4.0
+460,Toad Style,jE5_yPypanQLdYe7-f__dA,364,$$,4.0
+461,Echiban Asian,9AIfcDXRJYpFT9mZUXP4Xw,59,$$,3.0
+462,Jin Jin Hong Kong Cafe,yEHZiUgIihoSg6quQHcgmA,241,$,3.5
+463,Donburiya,VzstANC68PM1BbyOcDXEtw,347,$$,4.0
+464,Jukai,flHcoaHEWxACgc-Vk9MsOQ,159,$$$,4.0
+465,Poke,od-5v2v1HdGisEDAXotqeg,464,$$,4.0
+466,Torien,X7G_sOUkfYVsZzA1WUuYwg,12,$$$$,4.5
+467,Akiyama Japanese Restaurant,-W5OVy_1GGoT_6_WAQzmsg,82,$$,3.5
+468,Takeda,IVDk7BYFWwFsYPRbHLd49w,30,$$$$,4.5
+469,Marumi,-pab00ajP_NS1KGfILveYA,412,$$,4.0
+470,969 NYC Coffee,cLxp5gIPWIhmvpmdPo7BsA,256,$,4.5
+471,Sushi-teria,qP0rfpzlC8gL_7JeipesRg,125,$$,4.0
+472,Kyoto Sushi V,2C2xXOJUvvWfNSw0nlcg4w,41,$$,3.5
+473,Matsu Sushi,dspLTxhT3Po_lgpUOnYLHg,255,$$,3.5
+474,Ahana,bpeeh-kkay0ZE7mGXsCVKQ,145,$$,4.0
+475,Tomo Japanese Cuisine,8vYNqvS2PMN00xTT6WBzHA,228,$$,3.5
+476,Sushi Seki - Chelsea,-kLlgcwT_Sf8Riq8wziVeA,164,$$$,3.5
+477,M&J Asian Cuisine,Jn_p5WaprUY3Ql_539gsWw,40,$,4.0
+478,Asian Fusion,V2P3CWfUW_olSywlOlHGjQ,81,$$,4.5
+479,PP Boy Japan Teriyaki & Sushi,ZxGnVk-eHyVeAT2h0uq7Bw,77,$,3.5
+480,Sushi 33,7KvhIbqUyJ-B_37hOh4PxA,113,$,3.5
+481,Mikaku Sushi,KGD7hsGHd3KpiEGOApZLvQ,145,$$,3.5
+482,Gyu-Kaku Japanese BBQ,wUu9WcGjP8KS6KlpARChyQ,558,$$,4.5
+483,Tsurutontan Udon Noodle Brasserie,J9UA6rzI5WW_cDGjwDnF5g,1850,$$,4.0
+484,Nippori,8iSU_z2JkjjUEjm-Ur470w,829,$$,4.0
+485,Osaka Sushi,5jXqvYq6hFt5ATrkE2-uwQ,66,$$,3.5
+486,Sushi Kano By Genji,TuoXbiDqhFBJiyAXpcOLuA,10,$$,3.5
+487,Takara Sushi,u1dEMaP86MKl7lO5MyJLhg,206,$$,4.0
+488,Mira Sushi - Flatiron,M8FNsKsudKbBcYMyH5bjlw,336,$$,3.5
+489,Roll & Katsu Kitchen,d6vs1a7nVwhRVk4Ld89_hQ,56,$$,3.5
+490,Aya Sushi,Gb79W0yuQfJvu0V0SDC0Ag,318,$$,4.0
+491,Tang Restaurant,09y5uyX7z41mjoA9fVF1bQ,624,$$,4.0
+492,Oishi Bay,dL6_XUUr_INX10IOMtSM0w,178,$$,4.0
+493,P.F. Chang's,eQKYZWnBjPUjINAnFmrmbA,454,$$,3.0
+494,Sushi Para Japanese,Y9RuXSHc0QxdPmzUP9m87g,211,$$,3.5
+495,Lz Sushi,3VkdV_2H3cwvm3X5imtLxg,93,$,3.5
+496,Nori Sushi,aJkb_Ek9iZJUKgH5-cu7wQ,87,$$,3.5
+497,Carroll Gardens Fish Market,qAfpHbb4ww_VAGEgTL4B3A,34,$$,4.0
+498,Mickey's Place,-qdVBHgovxcZVhJm99C9ug,272,$$,4.0
+499,Ke Lai Le,-edCxB-9khQrBsqXNcBg1A,107,$$,2.5
+500,Kumo Sushi,35zXShgl22ax__nMLG7z5Q,526,$$,3.5
+501,Tanoshi Sushi Sake Bar,wSGZA3DOFSUvALZRKCM_Sw,640,$$$$,4.5
+502,Happy Kitchen,yBIxpidB7TzMRZogAucvfg,93,$$,3.5
+503,Arigato,D9sVruGgjWFo7ABSBaMSmw,323,$$,4.0
+504,Ozu Foods,ftWoJ47SUF50RTGxH42AHw,119,$$,4.0
+505,Komegashi Too,fnj0NiZpdmtUl7PzITgv3A,442,$$,3.5
+506,East 21,Wu9AymEM_RM2cnRPslVlIw,76,$,3.5
+507,Sushi Akio,Utp7letJ4wutRJ2zUdvOUw,134,$$,3.5
+508,Sushi Seki Times Square,LcmRObvsi8JkxFCJ_l2_1g,165,$$$,3.5
+509,Arbor Bistro,lDNiL1R3c0WMUI9jocJOzA,133,$$,3.5
+510,Nobi Sushi,zhkyBId_RIPyiOFE2R1PRg,183,$$,3.5
+511,Takashi,6qzNc9Z9DHYYleKqrW_K3g,978,$$$,4.0
+512,Spicy Shallot,a5H9p1B6m6WPVjakPylvdA,615,$$,4.0
+513,LUNA  Asian Bistro & Lounge,fqr2YzqzG7q1ZsuP2klxww,284,$$,4.0
+514,Mojo Omakase,hY80ALWhA_i1yqMA0L3ruA,10,$$$$,3.5
+515,Momoya,PTYUAAJbEmvIv4EsyRrcnA,432,$$$,4.0
+516,Gari Columbus,iHwhkW0LLlu81ZCir-lFQA,329,$$$$,4.0
+517,Cherin,jFhD3GansBI-NbA7Zj1Uew,247,$$,3.0
+518,Fuyu Ramen,lN5tiN-4eBNeh8F0zcI6Hw,115,$$,4.5
+519,Nobu Fifty Seven,SxKvgnkMMZdhBJcxxKQnww,1197,$$$$,4.0
+520,Sushi Katsuei,Uev0cXa6nx1rZP07kmCHow,83,$$$$,3.5
+521,Poke Bowl,t4B9GkAuiYIjFCt9SlK3EQ,306,$$,4.0
+522,Sasabune,3Jr_9I2ouYHDNk8XWKdZ3w,389,$$$$,4.0
+523,SOBA AZUMA,DNSFvZtdsqkaidmFSpm-Jw,279,$$,4.0
+524,Secchu Yokota,ynR4-QgEOsE7VhNfIWo73w,99,$$$$,4.5
+525,Bay House Bistro,bzGe51q5j1AvKG7DbDZk5g,69,$$,3.0
+526,Bada Story,47r2XzhXKcbPIb785mvK3g,157,$$$,4.0
+527,Pokebab,Eqz2pL3xHnr_72fxDXa2IQ,66,$$,4.5
+528,Blue Ribbon Brasserie - Brooklyn,UG7pKdu-NaF-GhzRx3dVkQ,578,$$$,4.0
+529,Casa Asia,eHSu9NDWPJ3BvQDmPEJpfQ,219,$$,4.0
+530,Ma Sake,2QBli_dnrv1Yo0ZWa02GWQ,81,$$,2.5
+531,MoMo Sushi,bLDHO08mO_OMNMBW9gdetw,173,$$,3.5
+532,Chikarashi,rln4dIU0ApGvEEI-Ne2bbA,99,$$,4.0
+533,Prince & I,jc_XQPbSCwMHsXLfinXA6A,426,$$,4.5
+534,Kokage,IjRxYyr41Yl1fGhIrss1vg,88,$$$,4.0
+535,Teriyaki Burrito House,37mIbgT7_GTDt9ZBYjs6nw,40,$,3.5
+536,Momo Ramen,4LVINhq3y4hCrxtShrNkYQ,285,$$,3.5
+537,RESOBOX,vw8e7QV4XDc_xViMLARqwQ,141,$$,3.5
+538,Dekalb Market Hall,HFOiW4RvijuoblE4DD3JwA,665,$$,4.0
+539,Harajuku Sushi and Crepe,jva4AMX7zRkNsY3DKX9LlQ,13,$,5.0
+540,Quan Sushi,afoHeLpkagNvjErwWqsbng,162,$$,3.5
+541,Ginger Grill,daqoTgWT411Rhl5h92BcqA,42,$$,4.0
+542,Llama San,4TQMO6AaKSXHMbKvGAf-gg,113,$$$,4.0
+543,New Metro Sushi Cafe,D6XwrFtT-JDBI4RwNKMePA,80,$$,3.0
+544,Ooki Sushi,c869kkUkjPM5nSGeJqVosg,251,$$,3.5
+545,Sushi Take Out Enjoy,McAV86dWnAAfdGEfOt6BYw,69,$$,4.0
+546,itsu,r1_1S1T6pSHK0imMjcr4hA,97,$,3.5
+547,Zenkichi New York,DpZ7Xaub8Lhpg7VJdHaPpg,989,$$$,4.0
+548,Niko Niko Sushi,qI86P6EBB0_9qC4uIT0j-Q,100,$$,3.0
+549,Ennju,TBPoZ9bESX0YnIZ0uKjX_w,240,$$,3.5
+550,Ennju,TBPoZ9bESX0YnIZ0uKjX_w,240,$$,3.5
+551,Sushi X,r5tdEA1S-Almn_2cv-c6Sg,243,$$,3.5
+552,Sushi Fussion 47th NYC,BCGZ-0WSLEuLviYJuUXWjg,11,$$,4.5
+553,Suzume,BlzlywklvYdek5uk_NCX9g,301,$$,4.0
+554,Sushi of Gari Tribeca,xvFf1wuKPSzl1zUnHy8ZKw,139,$$$$,3.5
+555,Fuji Sushi,mCorwiRo8rYJO5jGTFPzZQ,203,$$,3.0
+556,Nagomi,-_kj-IG6iUO_NWp2bIyNeg,106,$$,3.0
+557,Jade Asian Bistro,EYpS39ad-GfC5l2F7PwZig,186,$$,4.0
+558,The Ice Cream House,Nz2-gYA6gkZNDclZ4kIaDg,48,$,4.0
+559,Blue Ribbon Sushi Bar - Rock Center,gy56ohOWU-lBBL6U4HbaMQ,56,$$$,3.5
+560,Hudson Blue Bar & View,YbENoUWAXj_UdGK6UXajfw,14,$$,3.5
+561,Omakase Room by Tatsu,fDeC90b2ZqPQClL62jOUmw,127,$$$$,4.0
+562,Shogun Sushi Japanese Restaurant,E-PHQpuEb0M40N5RtMmEiA,93,$$,3.5
+563,Anago Sushi,BeQgG_eup8mfs8qBDsRv6A,31,$$,3.5
+564,Kam Man Hibachi,hWfJ9ZA9A6y4hFC6AV7WGg,10,$,3.5
+565,Tenzan,k9SHpkjwlYnXZkSLVtl11w,289,$$,3.5
+566,Sunrise Mart,YjDOSFuRWNp2d1znivWyIA,276,$$,4.0
+567,Benihana,dz88dkY9JaoXe2sF8MSjVQ,1171,$$$,3.0
+568,Jack's Sliders & Sushi,HXLDYJ6Fznjn48VbE_8cow,325,$$,4.0
+569,Sushi Sen-nin,ym21beAL2bMKOrt9QiYY8g,166,$$$,3.5
+570,Hana,frjMUU8VpT6Ou0y7TWEgYw,3,$$$,3.5
+571,Tomo Japanese Cafe,gige0Bps68Lk974vKytbGQ,375,$$,3.0
+572,TONCHIN NEW YORK,OFfZUS-nu6NDnsWe1B2bUQ,1173,$$,4.5
+573,Rasa,EbX_9tqAJs4gW51gZpOB7g,713,$$,4.0
+574,Kouzan Japanese Restaurant,ruBUmEgfRVu7M6i64XMQ9Q,219,$$,3.5
+575,Kealoha Sushi & Poke Bowl,oIPpGBpDdi_Z_7hhXGvW8Q,84,$$,4.5
+576,Amber West Village,WueXPnaTvM_R5UuPjxbbQw,207,$$,3.5
+577,YUJI Ramen,nhez4xxvwwYIQEN2Vrj9mQ,130,$$,4.0
+578,Fushimi Todt Hill,U6kLMaDnq6tBD83U0YHshg,184,$$,3.5
+579,SuPoke Bar,NoTuWQk3CHYQ_u_4JLmmbw,51,$$,4.0
+580,Niko Niko Sushi & Bowl,5JYpVoaYkYxrByOskzHAdQ,60,$$,3.0
+581,Kappo Masa,-u9yPjmvZilrXYM8JlKG6w,61,$$$$,3.5
+582,Saketumi Asian Bistro,8Jz2IfS-BGCm1GniqJVe2A,136,$$,4.0
+583,Kenta Sushi,-0rMc_wb4gi6_sai0SadsQ,112,$$,4.0
+584,Tanoshi Bento,Xb-NlVV5gYKX2Amd_WeWoQ,67,$$,4.0
+585,Bamboo Ya,m4LsYh1uad-k6Bfyd4bIrA,99,$$,4.0
+586,Hi-Collar,7rxg-tWPc1jK7Cikn5R86g,591,$$,4.0
+587,Chef's Table at Brooklyn Fare,diCW3Pj1PTVRSyol_d7cZw,519,$$$$,4.5
+588,Hula Poke,pnGOd5wwinXc83sIYI1Xuw,66,$$,4.0
+589,Suma Sushi,aZzq3M2xwbNHNSQe2AbAOA,135,$$,3.0
+590,Kikoo Sushi,Hkg4b2x8LlYbq2molIFdhw,666,$$,3.5
+591,Sapporo,Hw6PFIFmH1_CHP0TVJdbBQ,89,$$,4.0
+592,Fuji Sushi,Xin_wedns7o3-SgCke1b0w,66,$$,3.0
+593,Hane Sushi,73ORfmj4Et2DVWtroer50g,309,$$,3.5
+594,Takahachi,itblJyiTY2h2ACidLk66oA,561,$$,4.0
+595,Sushi Star,FJIa0eSaMIcAMba1hVYV3A,67,$$,3.5
+596,Mu Ramen,RElijPqDOAPTHT3J4n_FEA,1218,$$,3.5
+597,Zawa Japanese,YoR6ouUwehLFnBQ7RAjPlw,99,$$$,4.5
+598,Jintan,1TEsPWu212B918MtgiSu3g,47,$$,4.0
+599,Tokyo Record Bar,zaYK-LuVRUoUVt6EV-xmPg,140,$$$$,4.0
+600,Sushi Damo,J85NKgA4tOgBAoqxu0vBNw,270,$$,3.5
+601,Rice K,-FSwYW_xV__5KHTIc56B0Q,87,$$,4.0
+602,Yakitori TORA,e8EW89rpbE1G2Ev41yypTg,129,$$$,4.0
+603,Hashi Ramen & Izakaya,yckkW5iFRiBOWsH3tZTr3Q,1078,$$,4.0
+604,Miyako Sushi,jwO3r6QVi_h9KxUFYetKuQ,231,$$,3.5
+605,Mottsu,nrJtX2BcYW1e1zdokH_aGg,148,$$,3.5
+606,Chidori,kq7fKh7mOt-ctn8dRHFpEA,123,$$,3.5
+607,Food For Life,HuOcAM_ST_V2igUPo6D9pA,55,$$,4.5
+608,Yamada Japanese,Lb1aZim8mmM4b3TY2oxt-A,59,$$,3.5
+609,Yamato Sushi,xsAyLxRlbcKoLmOirWdETQ,117,$$,3.5
+610,Tataki Japanese Restaurant,QW1czVOqwkNet53Km_BIyQ,156,$$,3.5
+611,Bamboo Sushi,4Eziz-iTjfj_pgxTo-StrQ,120,$$,3.0
+612,Gyu-Kaku Japanese BBQ,ONQRhDuWv0e9R5xOiI7YAA,1231,$$,4.0
+613,Ginza Japanese Restaurant,XB_YNEvXM0Qch55jovpSJA,192,$$,3.0
+614,Nikko Hibachi,FgRJsieXorHgI-2XzGxh5A,354,$$,3.5
+615,Asian Bay,rDeFSYjPqpZI79tx2rYeUA,62,$,3.5
+616,Desnuda,-sfIp9hwE4e7aJCg-f4hgw,212,$$,4.0
+617,Narita Japanese Cuisine,7ShtxVe1ecYSjbKysm0T_A,246,$$,3.0
+618,Tenzan,u8seGm3CnP6RGEiimftUIQ,443,$$,3.5
+619,Tempura Matsui,ieXKc6S3WlEiVkyxgaF9Ig,133,$$$$,4.5
+620,Yuka Japanese Restaurant,NlgC8TjNuf8sy6qg2xpqsQ,561,$$,3.5
+621,Ganda Sushi Express,gDH_inc7otqEi05TGTiaoQ,147,$$,4.0
+622,Ginger House,EGUPGM2TuwMMFi3vifYEVA,125,$$,4.0
+623,Sabi Sushi,zt1CkOXxAjMqlompybpTmg,26,$$,2.5
+624,Ajisen Ramen,aMUu0H6jsUDqdmSuAZeZsg,398,$$,3.5
+625,Tsujita,7WY5zWUb7NajX7JW3t9W6Q,42,$$,4.0
+626,Umi Sushi,OO1EUYT629SG6rxkHJnmYA,73,$$,3.5
+627,Oishii Sushi Japanese,h7eetr6J6CK24s7Cgcn-ew,99,$$,3.5
+628,Fushia Restaurant,q3DA0poiO5h1DPu0Rfhygg,57,$$,3.5
+629,Teri Teri Japanese Restaurant,u1aeWjvebECChpm5IbUUkA,39,$$,3.5
+630,Sushi Sushi,R3IrcACdEcsDr0c_b1eEng,354,$$,3.5
+631,Sushi-Ann Restaurant,Nukulm8uVSjn0zMWk_u4IA,112,$$$$,3.5
+632,Ramen Bar,1CfowrfIQtEW520wsrO4Zw,91,$$,3.0
+633,Jade Eatery and Lounge,wQxJkDpO3kOSBRSsRi3CaA,616,$$,3.5
+634,Lemon Life,jn7q4o79x_Sl27EcqGWvhQ,52,$,3.5
+635,118 Kitchen,bZ1x7QN9ylQiGgBXS0I_9w,42,$,4.0
+636,Empire Kosher Supermarket,9cPuiwxrT32VvoIF3fHaZQ,7,$$,3.5
+637,Cocoron,JhJLPp6KuBcD3CHCkEKJ_A,992,$$,4.0
+638,Asian Taste,-_fDmhClugYdfy19qcNQpw,56,$,3.0
+639,Nippon,QJTLAOMNvhV1_jPfcQ_qPw,162,$$$,3.5
+640,Wasabi Sushi & Bento,aq0SXPyy_dpFjcfvTDRxBA,484,$$,3.5
+641,LuAnne's Wild Ginger All-Asian Vegan,3DVKbi5cSLMlmph43RF_kA,351,$$,4.0
+642,Yakitori Sun-Chan,Qli775QfVY4oFPNu7Cy5Tw,211,$$,3.5
+643,K1 Buffet,Z3PdMSTjwAvQcDuUshPqow,43,$$,2.5
+644,Akina Sushi,qJ66pLOdzT8Y3iuVCHkGRw,137,$$,3.0
+645,Sushi Koi,-OMhSikFjGlqNKJDveLT2A,58,$$,3.0
+646,Oki Japanese,u641PRSq7yCSfAcell-QiA,83,$$,3.0
+647,Glaze Teriyaki,zrjxk9o02-fs-hMcrAyaRQ,275,$,3.5
+648,Yama Ramen,y0iJ2BrB2rrOM-hogOO1mg,235,$$,3.5
+649,Wasabi Sushi & Bento,pS7aJrWCGRuVqflukwiFDw,36,$,3.5
+650,Amber Park,UnKO4wSVB_7R7VB2xyTRcg,1,$$$,5.0
+651,Sushi To Go Express,9A2L1t3m3GEAJ17ei7RmfQ,52,$$,3.5
+652,Izumi Sushi,vLaPRzOr2ChuaMCPRveaAQ,133,$$,3.0
+653,Ajisen Ramen,2SMaAUcbNjW7vSwdg38P2Q,418,$$,3.5
+654,Matsu,mZb4Td9YK8f1jwsg9xU_gg,107,$$,3.5
+655,Azuki,xlgGf123WHB7Q6_V4Xe12w,35,$$,3.0
+656,Kung Fu Japanese & Chinese Restaurant,ocTemm-dHzT9AigsD4PBVA,49,$$,3.5
+657,DokoDemo,n1xpGOPa7XRq4or7QLjzHw,297,$,4.5
+658,YoFresh Yogurt Cafe,CG2irCuH3IsCFox9Uvbw_Q,39,$,5.0
+659,Sushi K Bar,U9iRmdyP_-IOy22i_Dzu1w,16,$$,2.0
+660,Kimoto Rooftop,nnSyjwIkhbJIBMiBtch_BQ,523,$$,3.5
+661,Hanabi,uK7BhMiook9Ij93l-5nEUA,100,$,3.5
+662,Je Ju Do,UG7kwyd6j0TZ-D9I5La3PQ,75,$$$,3.5
+663,Tasty Fusion,RLAs8M-IQfAgp551rkFNGg,99,$$,4.0
+664,Avenue U Fish Market,Iy3GZJehwLWw1S8Q-q083w,26,$$,4.5
+665,Black Sushi,DWUGmKmYQgIOFymkF5bKEw,71,$$,3.5
+666,E-Mo,_YsHeAEyCYY03zGqlDdj-Q,374,$,4.0
+667,Sarku Japan,Jknvr_-Ys6D_riZptBadsA,34,$,4.0
+668,Kenka,9xRIcn0jTyvWNH9aBO3oAA,1541,$$,3.5
+669,Sakana Sushi & Hibachi Steakhouse,SNTBdiEi55Zvt3qa4AAEJg,13,$$,4.5
+670,Zengo,2IHGMQVQ7zmb89WyiiH1AQ,1032,$$$,3.5
+671,Kumo Japanese Restaurant,uv7iMV8JCW0BT6-S8uiJlw,82,$$,3.5
+672,Sushi 21,NjJJ0x2tOZXMeo6_f2w_IA,68,$,3.0
+673,Sushi Gama,1HBtCnBGBYoq3zaQUxTbmg,91,$$,3.5
+674,Sarku Japan,wF8uPsiiugPiVbdJ0tXBTg,28,$,3.5
+675,Brooklyn Chop House,A0saPXtRGKl-SVJGQyQAOw,425,$$$,4.0
+676,Omusubi Gonbei,qVlDLz8Ri-ThAFJgYHuQ9A,46,$,4.5
+677,Soba-ya,i8ejDDR4COtukAAA1Ls5fw,1469,$$,4.0
+678,Penn Sushi,WGo6s0sSqjLwM4sGtrUlJg,52,$$,3.5
+679,FuXingMei Sushi House,awvl9pC0RW8PT5A3NeLGMg,43,$$,4.5
+680,Suzuki,MSVftNJ5lwPK9TQtHayaPQ,101,$$$$,3.5
+681,A Shen Zhou Restaurant,XzMVQtnifzlFoq6Uj4795g,59,$,3.5
+682,mochiron,Yv2W9NMGgLiFHjatC-oHag,80,$$,4.0
+683,Tanoshi Tei,QpPcrp2hQQ5KUg_X6SIirA,5,$$,4.0
+684,Cafe Tibet,m6WOGq7BSB8YPjKoOpNTLQ,328,$$,4.0
+685,Ichibantei,kesYSgOJW5krU6L8n9qQ4Q,209,$$,4.0
+686,Daikichi Sushi,JJcscOGj0AARFoFK1rc96g,1,$,4.0
+687,Umi No Ie,Uoic12Je-GLfRp3D3Klp5g,153,$$,4.0
+688,Nyonya,M-odQWSEfsR2mVEw7nKG-g,2071,$$,4.0
+689,Freund's Sushi Grill,ZoeZqjlD5sVcGgs2RJ5qkA,5,$,3.5
+690,TAO Uptown,TU_BU9HLflYI2xlyqVQdRA,2598,$$$,3.5
+691,Yummy Japanese Grill & Sushi Bar,f1lSLfhuOW4IIt78gVGovQ,78,$$,3.0
+692,Khe-Yo,BKMCAYb9EAivUm3p-vrC9w,748,$$,4.0
+693,Java Indonesian Restaurant,cgiwHTmlUD-2em2MCvmzeA,204,$$,4.0
+694,Sharaku,Cx8VCw7e918oH0qhDCmjpA,338,$$,3.0
+695,Fusha Asian Cuisine,iiZpFWVd1Cmd-cSOanmXAA,206,$$,3.5
+696,Soba Totto,Ms1p17KsYteDlkvHnllC2g,902,$$,4.0
+697,Sakura 6,242duaE9aarDFCh_tvsfUQ,148,$$,3.5
+698,Kobeyaki,R6OddzYA6BF1J_LWp6Ac6w,43,$$,3.5
+699,Fish Tales,hudzJdIGMoXmxBO0KsJiFQ,91,$$$,4.5
+700,Fish Tales,hudzJdIGMoXmxBO0KsJiFQ,91,$$$,4.5
+701,Gyu-Kaku Japanese BBQ,dtk1Cstz5MHr-B1AOM_nXA,1183,$$$,4.0
+702,Yamada Chikara NY,L87p5eAKGjvkS2YZYjZcrg,32,$$$$,4.5
+703,Chateau De Capitaine,U1MA_TtQm3BB-Bf74Kklbw,130,$$$,4.0
+704,Tomiz,bJgl6cDIBIMlgrntQbxt1g,1187,$,4.0
+705,Bua Thai Ramen & Robata Grill,-Q8MYIWoE4EsGQtudIOY0w,622,$$,4.5
+706,Sushi Tokyo,rcDoIT3d748DZ4-RQVsB7Q,94,$$,3.0
+707,A Canaan,h8vOeyK0ubtWS75B1McYxQ,175,$$,3.0
+708,Hakubai,REIcoQFvGB7B6S0GmqHo1A,111,$$$$,4.0
+709,Tsurutontan Udon Noodle Brasserie - Midtown,DdoubmNfPNRi9xNmcQ64ug,449,$$,3.5
+710,Sushi Ishikawa,UI6YjZ34NnLdymKx2qf53g,11,$$$$,5.0
+711,Ramen Setagaya,ujozQCThEuSfEXi5_6ZTPQ,260,$$,4.0
+712,Wasabi Point,_byoUiZdZvS1QE_Szbvu0w,55,$$,4.0
+713,Juju Cafe and Deli,gxrxuP4_Mc_WbISGotgiLw,17,$,5.0
+714,Tsukushi,aY8JCml1xlOg5a1BHn2DNQ,93,$$$,4.0
+715,Bonefish Grill,Uhrv97bXuw6NCkdC66Fhng,358,$$,3.5
+716,Kosaka,yj4culC4vfNKWXdj5ZxJ4Q,163,$$$$,4.5
+717,Poke Zest,OPZdWfI1DyLZTLPeDM91pQ,43,$$,4.0
+718,Cocoron,nrxSzq-VxLqD7aFkE4SH3Q,639,$$,4.0
+719,New Tokyo,gtMNBOBSSTAVt1_NIs2qtw,92,$$,3.0
+720,Abumi Sushi,z-QCeERogFu_oIjCfxRW4Q,62,$$,3.0
+721,Sake Bar Satsko,cZAh6BzEeMI5fofWeDvuhw,163,$$,4.0
+722,Mr Coco,a7x1cJsclJp35zG5BnfMJQ,89,$,4.5
+723,Oramen,9dikwBwukRl26W6Jqo09nQ,284,$$,4.0
+724,Hiroshi Japanese Fusion,IdZ5DnGnAEXcmz2jZXGFiQ,185,$$,3.5
+725,Ayame Hibachi & Sushi,zjGALLjlJblpZWarcDPpsg,246,$$,3.5
+726,Atlantic Grill,5UxJoqkdYrUEjArx8YITMw,579,$$$,3.5
+727,Tengu Sushi & Noodle House,48aOA2rflIt8d2zCSuNG2w,198,$$,3.5
+728,Tokyo Express,zOOTRR3jECoUwagYA9QGVQ,34,$,4.0
+729,Korilla BBQ,3oKGId6hWg3x-zGmhlStLg,69,$$,4.0
+730,Aji Sushi,xA1qtuegpy7skuVLb-CkQA,188,$$,3.5
+731,Moge Tee,n1zp9E-wrqUl4M3mrKp_NQ,78,$,4.0
+732,Jin Ramen,EvAJBgBdgOt1jx1EufRN7w,900,$$,4.0
+733,Dongwon Sushi & Tuna,sYQ6fEQm5akGeURh1V1L9Q,57,$$$,3.5
+734,Wei West,GzY2EjCmGNgvRd7IE20fTA,209,$$,3.0
+735,Tokyo Bay Japanese Restaurant,TyLhPh5dez8JLqXOgHXUaw,71,$$,3.0
+736,Shuya Cafe de Ramen,XKDHsS8PevoEdFLNtt05FA,279,$$,4.5
+737,Masami Japanese Cuisine,nU_BG_lpObAJXWF9hvPD_w,12,$$,2.5
+738,Canal Street Market,AR_0QV4O12sHojkky_IMkg,191,$$,4.0
+739,Makana Hawaiian & Japanese BBQ,NQbh8zKPqILV6WeYSOM-yQ,163,$$,3.0
+740,Take31,IjQ2yGUKkvP0JIldT9vRFQ,584,$$,4.0
+741,Yaya Tea Garden,htfDg7GkwP-DK_IQ6pv-jg,191,$,4.0
+742,Teaus Sushi Burrito,6n2rHuzmtk0cJORtUJ3i4w,32,$,3.5
+743,JeJu Noodle Bar,xtxcAUvrD4dWHJd0cwvW1A,559,$$,4.5
+744,Nobu Downtown,SKoMUaQewpMdj1Mg8QvBNw,392,$$$$,3.5
+745,Yong Kang Street,oFBgvlELwMtvqA0gcGr96g,74,$$,3.5
+746,Futigi,kAwN-eXOLkZ4OJSRgmjojw,125,$$,3.0
+747,Zest Sushi,ZfuZ2byArGq-5j8zX8Afeg,823,$$,4.0
+748,Red Moon,BJT8aEHbK538gJ8Cx8AQVQ,103,$$,3.5
+749,Sushi By M,MGRo61aHFUeRlWhSbTv2NA,420,$$$,4.5
+750,Momosan Ramen & Sake,oTkzgr7hzOAdlP99Auj3GQ,1638,$$,4.0
+751,Don Pancho Villa Restaurant,wO9FMvtYqsJoYrnHDASE0A,226,$$,4.0
+752,Olmsted,Ulr_Nyp2nvt82EPH_BiftA,386,$$$,4.0
+753,Masakari,-ZMaWRPqs0hPDe9apyFRGQ,186,$$,3.5
+754,Mikihana Sushi,AB8Gujd0ix_ckpQs6pKfBA,37,$$$,3.5
+755,Donguri Restaurant,FCoRGys6wgE7fSQ_YAUBeg,143,$$$,4.0
+756,Osamil,X8yEmEDD9ZTkHoIRFqzcRw,425,$$,4.0
+757,Cafe Hanamizuki,S-619sO8qSxQcis0DBHvNw,541,$$,4.0
+758,Kumo Sushi,8hxvfFZH4kPp35kH5DhnIw,157,$$,3.0
+759,Poké Fun,jho1TctWYD-IZoWhkxqGLw,128,$$,4.0
+760,ChopStix Of Bay Ridge,6ZUNlT0iiHUEwZ-46GQmrg,243,$$,3.0
+761,Shiso,znY0G5kSaPAfjsQ9sILWZw,50,$$,2.5
+762,Tenzan 89,WOonEFdSaK224ew1c0Oa7w,160,$$,3.0
+763,Ippudo 5th Avenue,Jcp-SJpnkhj_MD8-aDIHaQ,340,$$,3.5
+764,Tomi Jazz,l_RAv09V67j-Hm9dyZxWhw,448,$$,4.0
+765,Reserve Cut,D9nQb14gqhCAOaUUvJz3-Q,270,$$$$,4.0
+766,Shinagawa,p4W_z-zh96LHEAtQ8LRSVQ,119,$$,4.5
+767,The Bowery Market,sxDipuy5echzwMbj0oLRcg,22,$$,4.0
+768,Pan-Tastic Q,ucO0J9f1m7bIs1nQclzSeQ,30,$$,3.5
+769,Sons of Thunder,lESxFswvOPUFUzj6HsTnqw,761,$$,4.5
+770,Fushimi Bay Ridge,xAEs5QnuL8uMNWjmUGpK7g,371,$$,3.5
+771,JR Sushi,L_LDa1yW6qcUQJ6IsXqNNw,134,$$,2.5
+772,Bay Sushi,NiosoLeT66--O2BOUlI_GA,74,$$,4.0
+773,Mikado,Gp3K-AFm3Ap8WG5R0nF7DQ,147,$$,3.0
+774,Fuji East,eX1l0ZlqaHbkWz5dOmPt4A,128,$$,3.0
+775,Simple NYC,AjlmpAQV8W4--y0EksO-9g,333,$$,4.5
+776,Kakurega Sushi,sgw7_RcDSN5UcMPeviegFA,73,$$$$,4.0
+777,Duck Wong,0mRtZ39VQI5CfHEJ7zDwug,178,$$,4.0
+778,Itamae Japanese Sushi,_yI1qbOFMPoju8nxBi4wbQ,1,$,5.0
+779,Flame,u0qfikB-ppp6UwoNKqxlRw,404,$$,4.0
+780,Red Apple Restaurant,2HI2l42sRvyQnaHWI7K72A,115,$$,3.0
+781,Abeca Sushi,h4kSprW0LhnrUox8s3PasA,69,$$,3.0
+782,Sik Gaek,2Bg8Jfl2FvH1unmvxNS0dQ,568,$$,4.0
+783,Unagi-Ya Hachibei,Ywdce1GlDhjs8f8v7qZM_g,57,$$$$,3.5
+784,Sunflower Cafe - Brooklyn,ib_UPRz83TsLOaNe1EEHBw,135,$$,3.5
+785,Lincoln Market,jmYYV9o99jNMP7aGIRtZ7g,31,$$,4.0
+786,Sons of Thunder,X6ftLqOVrSnk4k65AEJmrA,67,$$,4.0
+787,Fuji Hana Restaurant,IkalAe3sUTlzV66KbIdluQ,26,$$,3.0
+788,Green Lake Express,XNIot9t4TOIrD8PfxNAVqA,15,$$,2.5
+789,Sushi Family,tQiNC90K4ebVAglXcqx1Iw,135,$$,3.5
+790,The Loft Steakhouse,8PlsB1AXfAJ2RSR0MNbDrQ,70,$$$,4.5
+791,Wokuni,D6ZEcG1FCZ18nekMWrhgMg,221,$$$,4.0
+792,Empire Express,kyRQrRATPqZlYvy3G4zzAA,3,$$,3.5
+793,Akami Sushi,CK-SCG1A80dyLbjBNhCXNA,37,$$,3.0
+794,Nolbu Sushi,31eahUTJH_xZoK8bTb1KrQ,30,$,4.5
+795,Fantasy Riceroll,Bbvo-Ssp00DBCsaF1Zo5bw,77,$,4.5
+796,Tabletime,eEfscQIXLMVvyv79Kr4Ujg,62,$$,4.0
+797,JaGalChi Sushi House,V7l878M049ukiue99jE1DQ,12,$$$,3.5
+798,Takahachi Bakery,GlPJPpKvPR4d8dmcSEYpdA,899,$$,4.0
+799,Abace Sushi,9rSBlX-8OuAQblXHiekViA,54,$,3.0
+800,Sushi Time,9l5JbUxv81r17XwpEMkSdQ,110,$$,2.5
+801,Hibachi King Express,XeryaXOFIn6gSXgi2WSV2Q,25,$,2.5
+802,Shoprite - Brooklyn,4r6upfcHLD0Y7Ftxk3y0aw,83,$$,4.0
+803,PACIFIC MOON,MzA6gitJKqfW4VrdS7AiQw,82,$,4.0
+804,Okinawa Sushi & Grill,Z7gHAR1j_hjdxoWO7kYgeQ,332,$$,4.0
+805,Sushi Fussion,U_OFOSHg6vt-oG2IzCkhww,50,$$,3.0
+806,Udon Izakaya West 46 Midtown,ev6e12vhY_0y4qE1cRhv0A,1032,$$,4.0
+807,Yakitori Taisho,Ad3dUoLatOdNtB4LxfmmWg,1577,$$,3.5
+808,Shokudo,q23Br0CDFO6a1qx_7ItFKA,127,$$,3.5
+809,Zen Fusion Cuisine,T3KK5s1HaPGokXEc5Z8vOg,222,$$,3.5
+810,Jujube Tree,S7ivv5O0beH3U9cV3cRD_Q,377,$$,4.5
+811,Sushi Bar,_CXHXJmeG85QeqWhY9aw7A,1,$$$,4.0
+812,PokéBowl Station,OMBSBBdzxO97fz9w0wEUFg,119,$$,3.5
+813,Five Loaves And Two Fishes,KgosIJNr-XTOsjkiKlS4vQ,58,$,3.5
+814,Nishida Sho-ten NEXT,Z-KV06jQbPovawp9dJD3vA,60,$$,4.0
+815,Shiro of Japan,UTZcmECFmXRyrfq8BS_n5w,43,$$,3.0
+816,Corner Cafe,tHKaATIcp35Oo_ChF2KM9A,17,$$,4.0
+817,Mr. Wasabi,7oPmGC2fDsVXLodiuhEMAg,199,$$,3.5
+818,Oiji,FsuJ7VC5vxX3wcLhFrb97Q,505,$$$,4.5
+819,China Glatt,hayvcF_cFMSYa1Ha7PWbVw,26,$$$,3.0
+820,The Pennsy,PK7xvOMIjLOnuAC9oupggw,372,$$,3.5
+821,POKAY,Uj5BNuyKSajv0k73-_uTJQ,96,$$,4.5
+822,B Flat,sLxHi6kOAEV6iqr45jzb_Q,363,$$,4.0
+823,Omiya Sushi,9MBNbh-0QtzA8UcBCjaNcg,208,$$,3.5
+824,Katsu-Hama,vAxm4dekBCfaRNoBYbx6OQ,509,$$,3.5
+825,MUI,_FAh31lob7Dnn4iGiLIwng,254,$$,4.0
+826,Poke Green,zzzOOwSYzuTPvsafSCzDPw,68,$$,4.0
+827,Kuu Ramen,hvrQQ0YWqgw0__OnofqXag,652,$$,4.0
+828,Nuan Xin Rice Roll,kazj8JeREOmgb6HDTh-XrA,27,$,3.5
+829,Sushi Village,0-z7VSMGBqqyMyw4vre06w,694,$$,3.0
+830,Asian Grill,mAQ1zH-aDmG26LzKq7kbow,183,$$,3.5
+831,Akimoto Sushi,6UbOi5oDDQUJAI9V2pv11w,80,$$,2.5
+832,O Ya,WHXgDm3kcU-aONfjR8tX0A,250,$$$$,4.5
+833,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,3055,$$$$,4.0
+834,A1 Asian Fusion,CvSOAN2WWzLRGND4vN1xtA,122,$$,3.5
+835,Kitaro,7HJrtpB0mo8tndvxOkN31w,130,$$,3.0
+836,Master Grill,IT8X2pHUih-pBMzMN9n7Rw,18,$$,3.0
+837,Ippudo NY,44SY464xDHbvOcjDzRbKkQ,9963,$$,4.0
+838,IchiUmi,FPuOTMD-dmXTFz3rUsEkMg,1406,$$$,3.0
+839,Ozen,YIYetgfNE34G8JhQu98XQw,187,$$,3.0
+840,A & J,cAu-1t90dUdcSDI5ZvYqEg,7,$$,2.0
+841,Dainobu,wcs0Qm2PshPz0ifTsJK3YA,210,$,3.5
+842,Traif,qLLxS7RwNEjP_jq_KQrPfA,1855,$$$,4.5
+843,Shabu-Tatsu East Village,y_ylOQzCP-9D_4DcUIJ3jA,634,$$,4.0
+844,ICHIRAN - Brooklyn,JRmQRFEEnSUdAcesHun9AQ,1131,$$,3.5
+845,Sarku Japan Express,lBGWFNaQ5wIDCeVdRUX6sg,22,$,3.5
+846,2nd Yo Sushi,PD0O_q0RXvEkgC6-07ffpQ,92,$$,2.5
+847,Carneval,iQq4-DZDD-pwhOMXRK3j6A,41,$$,4.5
+848,Fortune Hawaii Chinese and Sushi Restaurant,GoXfGH4cUqs6u9s8IpL6Tw,31,$$,3.0
+849,Dokdoya,naKx74Q0wLANNxmVDtq_6Q,68,$$$,4.0
+850,Osaka Vibe Japanese Cuisine & Sushi,BbnsR23JXUMbZxvAv2i0YA,7,$$$$,3.5
+851,Hanami Japanese Cuisine,H20RCBmxdkf2kNjftedPyg,26,$$,3.0
+852,Baumgart's Cafe,Orb334SNTA7LEYW9XSVX5Q,269,$$,3.0
+853,Mr. Sushi & Sashimi King,ejbjESVsy0PxIIZrD1Tzlg,8,$$$,3.5
+854,Ramen Takumi,6x36O0p7akyaEQxeaKFbwg,437,$$,3.0
+855,Bleu Fine Dairy N Catering,YK7HQ5PBvkS_t7E2knf5zA,7,$,3.0
+856,Pokeworks,c53HqhOuOzvERo4TOH3uKA,66,$$,4.5
+857,Fuji Japanese Cuisine,gNDaXUNnl1B1NKyoMN6x5Q,286,$$,3.0
+858,Ocean Prime,3Gz07E5YJjDTJPSuzsAStQ,574,$$$,4.5
+859,Bar Masa,-BWRdjHW6CtMGIRLMxEVQQ,193,$$$$,3.5
+860,Azuki Japanese Restaurant,IsCVV0EmG6NXsV2RIYbZCw,167,$$,2.5
+861,DNY Natural Land,ezp7JUFZ6D-mWQDm0IFxNg,33,$$$,3.5
+862,Hide-Chan Ramen,neccHiLwwGeMUVRXSC7q_A,190,$$,4.0
+863,MeO Hibachi Sushi Steakhouse,hLLKifpX48hV4iGezqYr_Q,96,$$$,3.0
+864,Petite Crevette,TCJrcryBkI6eg2HYThoiKg,316,$$,4.0
+865,Teri Teri Japanese Restaurant,gm-LT7qcb4t5JfDQW1pONw,59,$$,3.0
+866,Kiku Japanese Restaurant,I4Z8vyaZjbD2aS5xoMeF8Q,92,$$,3.0
+867,1 Chimi Sushi,TTkuFX_N7VRNGQFb6peHAQ,15,$$,3.0
+868,Woorijip,ogCC-lJJYnwXDvKGmKZ6Sw,2620,$,4.0
+869,Bayou,hmndKMvCwTzXSAPp4KmGYg,377,$$,4.0
+870,Poké Inn,ZO7oni3s8jNG6NUztCQRWQ,149,$$,4.5
+871,Kajitsu,rn6SmSqAYx2kLFIAxytMMQ,240,$$$$,4.0
+872,Wisefish Poké,IzY4xwbY7YqPoL_-xCSeRA,415,$$,4.0
+873,Mr Kiwi's,uaz8YKPbscDa7krfXvK_tw,163,$$,4.5
+874,Joya,pSSajdYNKTyAGV8-fk7fWQ,1299,$$,3.5
+875,Sushi by Bou Times Square,MmXZLVwWcYugi_TXSHmjeQ,593,$$$,4.5
+876,Blue Ribbon Brasserie - SoHo,txSykTj5nbwmpiVNoK_Dyg,934,$$$,4.5
+877,Orchidea,e_pbcF-lIHXvBiQwsKnkrg,47,$$$,4.0
+878,Belarussian Xata,YAOG0dK0r9T-E1CrZ7QxYg,147,$$,4.5
+879,BentOn Cafe,0IlPgT9j_85PuLDs8ZqiUw,155,$,4.0
+880,Churutto Ramen & Poke,XL6EJm_QKNnxeGiSJXXbUg,137,$$,4.0
+881,Village Yokocho,gZqwq8kE-Z3-DdZGOEjOkQ,756,$$,3.5
+882,Shishito,9yvIxnZbRcMg-TqskkRTQQ,115,$$,4.0
+883,Open Kitchen,CmrvcYql6P1VE1Phw4pEww,137,$$,3.5
+884,Nagoya,2ev7_7be5HVGfYJCEKEOgw,60,$$,3.5
+885,Flame Hibachi,RoqLH-4rDugHlduthnZggg,139,$$,4.0
+886,Gotham West Market,bBDzXNM7Y7_8WE2Sm6R_ig,555,$$,4.0
+887,Sizzling Wok,yr97Mr7cDaaUigZXqHuIeg,20,$$,3.0
+888,Pomegranate,lwhyboL8ECPLmI1SN3FsNg,98,$$$,4.0
+889,Yaya Tea Garden,6xPlSpyxE3PLJVeRvt2BwQ,478,$,4.0
+890,Bonao Bar & Grill,ukM0_qghRTdMQYKIFKor3g,69,$$$,3.5
+891,Urbanspace,QAGFu7pqCAZUJkYkUB5pjg,661,$$,4.0
+892,Mr Mango,7Tg2yyY3IoTo8Zi4JmVBfw,38,$,4.0
+893,Go! Go! Curry!,alFl7eiu6Go-YxZAdp88Fw,364,$$,4.0
+894,Ocean Fish Market,wfe9mx7jWMEtQqVI55PI3Q,19,$$,3.5
+895,Jue Lan Club,zYoL-o9YJpGTwJ-Gmj8AFA,396,$$$,3.5
+896,Le Botaniste,4b43TOXpskBPZqQzbKkwDQ,136,$$,4.5
+897,New Belacan Restaurant,xCUkWulAEHlbDvPwPZYgtw,72,$$,2.5
+898,Smorgasburg - Prospect Park,jUQUJP51MOJEjOXfyceq0w,289,$$,4.5
+899,Aki Sushi,QJYh4l3haPQ4YVmKhWp0Tw,43,$$,2.5
+900,MONOMONO,c_Kellz-oODKoNpcRbV24w,473,$$,4.0
+901,Umai Ramen,-myNMz3yTqIvOEAXxAHTBA,167,$$,3.5
+902,Her Name Is Han,qY1o1MhoRyN84RRhUJtvpQ,1194,$$,4.0
+903,Macao trading,U74_3F7r3tMhd6dmTmDBxQ,751,$$$,4.0
+904,Seatide Gourmet Fish Market,DhSx1pmjtQyBDpGoAtT0nA,30,$$,4.0
+905,Sushi Jun,iOP5--ysHdx8tllieeSsig,10,$,3.0
+906,Sushi of Gari 46,00mykkev3tKCjTsKV60yOA,680,$$$$,4.0
+907,Restaurant Riki,1-7C5Kv8B8PiIbfL3_uHlw,361,$$,3.5
+908,Aces,Ge3b-B8E0tnypuC9gACb1Q,6,$$$$,3.5
+909,South Street Fish & Ramen Co,dxHn9Zk17fiY-9CvydZdgg,151,$$,4.0
+910,Tamashii Ramen,O9WmKufAUqDM0j2HpgLVlw,714,$$,4.0
+911,T Fusion Steakhouse,Twwpqrl15EVhmaNnNSrSQw,84,$$$,4.0
+912,Oki Poké & Ramen,6S3dRxa8n9L-OzZ-5h-q4Q,82,$$,4.0
+913,Wasabi Sushi & Bento,PetO4CfZ1k36oMJL3Oc0Wg,91,$$,3.0
+914,Asian 59,VDbMrjBq-XAKZTS_cgB9_A,78,$,3.5
+915,Zurutto Ramen & Gyoza Bar,ZOpnIsm7ihoO1gq2YmGdzw,389,$$,4.0
+916,Abi Sushi,iF8QKcWowtdfeOxJngZ_PA,56,$$,3.0
+917,Miyabi Sushi & Asian Cusine,njmOPpVZxIseG262NPfspA,375,$$,4.0
+918,Anda Cafe,9MSvj1NSKlWZKNA3aQaJOQ,17,$,3.5
+919,Double Dragon,rp1sI2x3r3sAGJVA1WY9PA,7,$,3.0
+920,Lima Mill Basin,hMTG973Y4QX1XhEC6SCTKw,172,$$,4.0
+921,Sushi by Boū Union Square,PnMnNmUHDR1IwQOe4Zixbg,54,$$$,4.0
+922,Udon West,tznio-FInuk87Y15Dgq5iw,868,$$,3.5
+923,Natsu Japanese Restaurant,CCdr4HW5FmaRL6GzCa01BQ,5,$$,3.0
+924,Omen Azen,o0G_zp_XgP6Pr-WY4LLHLQ,108,$$$,3.5
+925,The Penthouse - Ravel Hotel,InEqFA1IvuSLhvDBXhBR0w,984,$$$,3.0
+926,Arirang Hibachi Steakhouse,jYia13i0CBwNXadzAAxLJg,325,$$,3.5
+927,Blossom Ice Cream & The Poké,kRA-my14mpedXf9gTAGJSw,90,$$,4.0
+928,Black Iris,-JBFRO2z1Fr6og-3VGYRxQ,301,$$,4.0
+929,Modern Love Brooklyn,BYnd0Kbkrjhz0CGKMF1lqg,495,$$,4.5
+930,Miss Thailand,xSrEOf3Ht7eK5sUpReAGkQ,115,$$,4.5
+931,Eat N Run Cafe,VjuZ07nv_psJkn4xDLCw5g,16,$$,3.5
+932,Fei Long Supermarket Food Court,f-NzFqJ5yX58obxhS9qdnQ,82,$,3.5
+933,Danny's Szechuan Garden,vGou_-nTIpcGZMexHi-7sQ,144,$$,3.5
+934,Poke Burrito,T1aZAWSiZtSP52ToGNNX2w,103,$$,4.0
+935,Nakamura,c6R_hvUwsqXX2MUXWtO94Q,377,$$,4.0
+936,Covenhoven,lMy1BYJ5HX8TccXTBwdRNg,129,$$,4.5
+937,Aburiya Kinnosuke,_FhKGcCbiYgtkXcCiwTAiA,750,$$$,4.0
+938,Amaze,DY0y0KPwu8LnQteNB-uoAQ,265,$$,3.0
+939,Metro Feast,HyGMiwv6IkT3AYVDZ88QjA,40,$,4.0
+940,Cafe Nomis,q_rJoy7_5-dJc3A9yiqxHA,26,$$,4.5
+941,Amber Kips Bay,7F9wHVknF_UW4OFVUDxtZQ,272,$$,3.5
+942,Cha-An,5QgBCrAbXbM1ORiqZDrBPQ,1795,$$,4.0
+943,Bento Sushi,Z6PSriYBChS0xFGl61COJw,84,$$,2.5
+944,JC Sakura,hRjSYLEszj_fyFhU9FVJCQ,88,$$,2.5
+945,AAA Ichiban Sushi,ZofuLR3VhaIGAAkXL0zrFQ,20,$$,2.5
+946,Aji Asian Cuisine,MpQfgom8BltdTLZi7FHP-Q,38,$$,2.5
+947,Kyo Ya,ytABgZNWnFXQUjOYjh460A,455,$$$$,4.5
+948,Sushiva,rnSUQ9japvHortRAD0X_ng,40,$$,4.5
+949,Sakagura,7iY35991NhQ1AShJZCNZgA,1783,$$$,4.0
+950,Abacky Fusion Cuisine,NVcKEwdKGSSDnIAceebMpw,27,$$,3.5
+951,Sanpoutei Gyoza & Ramen,Cpg3Vcru1-CozSdvcrGlnA,34,$$,4.0
+952,Niche,FKLNX5j_byvdkliG0-ygCA,100,$$,4.0
+953,HanaMichi,Ycz0lIQObftqCnJJvln2WQ,448,$$,3.0
+954,Gansevoort Market,m9Ud-Z_3AnRca9gUe95crQ,265,$$,4.0
+955,Amaze 58 Asian Fusion,DtkyPDGAodq5bAesiFa-JQ,100,$$,3.0
+956,Rondel,rZZRWEYLJZbF0OTmAgBYiA,23,$$,4.5
+957,Dainobu,k67-o4M_l_7LO_RxWBIpbA,99,$$,4.5
+958,Shaka Bowl,dyiFRXpT9b7pDH7PMptvKw,196,$$,4.0
+959,Yummy Thai,GXLGoW56JMm1lQf6Lnc15w,73,$,2.5
+960,18 Restaurant,rOULM2AE_hLhsb4mcT9ucg,55,$$$,3.5
+961,Blink Thai,dyFvVNDumWZgXtV3GlK8vw,40,$$,4.5
+962,Beijing Dumpling House,AQqUiXi0hn1xu5qVfM54IQ,279,$,4.5
+963,Vanessa's Dumpling House,IhSVn0TaX8xXb3wcQ-fgcA,2636,$,4.0
+964,Freund's Fish Market,0niXaomLyYYcM-1ykDvKGA,1,$$,5.0
+965,Aji18 Sushi,VW0Ehm8vTXFYOICtln6tSA,4,$,1.5
+966,Buena Vista Restaurant & Bar,PGpCaNkB1meojnbgRmb2gQ,181,$$,4.5
+967,Jade Bamboo,T6Tmg7kL4Txx3e7wDUTvsA,27,$$$,3.0
+968,China Blue,0k678lCWQyReNi0lARlOmw,707,$$,4.0
+969,Hamachi Sushi,6Bv2zPuLN1ni11TtCd5K4w,34,$$,2.0
+970,Bap,rtGTCIPxmnf41DUYGfaCTg,122,$$,4.5
+971,Amura Japanese,MwtXOkRUndPU-ivbtLD-bQ,315,$$,4.0
+972,Red Lobster,w90E5FLWPedqh1NOFOuXbw,331,$$,2.5
+973,Sushi Azabu,oJZq1JmKalXXjqWRKfIjwA,431,$$$$,4.0
+974,Kimbap Lab,2jkR9i54loLxuaowoPX5Fw,35,$$,5.0
+975,Muse Cafe & Tea,WqyMKiHd6l2pyLPZJgAaXg,154,$,4.5
+976,Sushi Para 88,TiBeYTtuJfTv616H1ZGpjQ,405,$$,3.5
+977,The Capital Grille - Curbside Takeout & Delivery,ud4-0gH8YlAExTBJoADPtw,591,$$$,4.0
+978,Little Park,np7wKWwTAhetwpXqsWpFkQ,370,$$$,4.0
+979,PokéWave,tN_RVaaR6RjPn8twABp78A,230,$$,4.5
+980,Sushi Ryusei,b3fuuJzb0uQDtVD3Zxe2Qg,91,$$$$,4.5
+981,Hunan Park,pmJqb7-EckluXUk6Rtml6A,94,$$,3.0
+982,Uncle Luoyang,zyG1GIU3KnIZ3bOVGgJXlA,120,$$,3.5
+983,Asari Sushi,T0IoEwALrh6nDoylrHdaAQ,9,$,2.0
+984,Forrest Point,zHqDuMznom7CLp2lqV8q0g,358,$$,4.0
+985,Khim's Millenium Market,G1zhruAQ2LkdX87ACGXUjQ,47,$$,3.0
+986,Lucky Cat,Q23LvHPuC9ajSbMEt8xoUw,328,$$,4.0
+987,Bedawi Cafe,HVKKciOXD4k9VWXqgM9hqw,164,$,4.0
+988,Teppan Bar & Grill,D3LtTiVtIPOcUT_bjxztRA,547,$$,4.0
+989,Hot Pot 828,xNge6PZM4ACi74NSDeQcxw,112,$$,3.0
+990,Lure Fishbar,aSFBv64GBpMOFPqIleeQFQ,1652,$$$,4.0
+991,Danji,FeSynfcDT4qB2kDixHUQCA,1008,$$,4.0
+992,Rockmeisha,P6lp4sbzK29yQAMnEqe9dA,181,$$,3.5
+993,Soco,oOsJn3leUnWDfErRWMf81g,2136,$$,4.0
+994,Kuruma Zushi,GfC7pvsvhZX4-QAeZ3z_Vg,226,$$$$,4.0
+995,HinoMaru Ramen,D65eObUbArHu6UiQsUasgw,875,$$,4.0
+996,Hasaki,1rjxNwYpg0orCcZi0ku9Nw,367,$$$,3.5
+997,Beyond Sushi,TcuWyuZAORVnQBPCMNbTgw,678,$$,4.5
+998,El Born,gvMYV5E3HyzhN_MYFIMGzg,301,$$,4.5
+999,Bento Sushi,KnvGnK2-wm2RHjKTIPch8w,163,$,2.5

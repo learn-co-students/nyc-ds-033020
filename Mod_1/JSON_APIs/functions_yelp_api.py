@@ -1,10 +1,16 @@
+import pandas as pd
+import requests
+import json
+import numpy as np
+from keys import client_id, api_key
+
 def yelp_call_businesses(url_params, api_key):
-    headers = {'Authorization': f'Bearer {api_key}', }
+    headers = {'Authorization': f'Bearer {api_key}'}
     url =  'https://api.yelp.com/v3/businesses/search'
-    response = requests.get(url, headers=headers, params=url_params)
+    response=requests.get(url, headers=headers, params=url_params)
     return response.json()
 
-def parse_data(list_of_data):
+def parse_data_businesses(list_of_data):
     parsed_data = []
     for business in list_of_data['businesses']:
         biz_list = [business['name'],
@@ -74,11 +80,6 @@ def parse_data_reviews(business_id, reviews_container):
 #     new.to_csv(csv_filename)
 
 
-# cur = 0
-# while cur < 1000:
-#     url_params['offset'] = cur
-#     results = yelp_call_review(business_id[cur], api_key)
-#     cur += 1
-
+# results = [yelp_call_review(business, api_key) for business in business_id]
 # data = parse_data_reviews(business_id, results)
-# data_save(data, 'yelp_reviews.csv')
+# data_save(data, 'yelp_api_sushi-reviews.csv')
