@@ -1,2 +1,2 @@
-client_id = 'bVX1Jsfp4dkIOqw5HOVplg' #Your client ID goes here (as a string)
-api_key = 'RTzp-q-TgkJW_NFQogubFvZNRDziXyoR38VbtZMWibDI-FlvB25OE7GmafFEqhTL8_Bk2HlcX24-hRWLMP7Nc6WHO_VXMXldpPBjP0LoPv5EFFELMSI2oll8njhbXHYx' #Your api key goes here (as a string)
+client_id = '8a3plc0HJl7r8T8PWdaSmg'
+api_key = 'vT-JhBHOEl66pQyl1GIt4CDoXwipUxGIZ93XZv3-eiy81OYyeefp_IfLs54u7zRBMSqXFOxSRbr3yMBWEy-Rt0L0UjSHXSODIXWVXqTecikY_YM_z0nRpLiGZZWPXnYx'
